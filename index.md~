@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+tagline : TEST
 ---
 {% include JB/setup %}
 

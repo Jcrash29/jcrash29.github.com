@@ -13,7 +13,9 @@ This website is designed to provide a high level overview of my skills, interest
 Please feel free to contact me anytime at jcrash29[-at-]gmail.com
 
 I look forward to speaking with you.
-
+{% comment %} 
+![name of the image](http://www.racinghelmets.eu/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/h/shield_dsaf_rs3_ml_red_1.jpg)
+{% endcomment %} 
 
 {% comment %} 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)

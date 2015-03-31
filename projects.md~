@@ -14,7 +14,7 @@ description: ""
         {% if image contains 'src' %}
                 {% assign html = image | split:"/>" | first %}
 		<a href="{{ post.url }}">
-                <img {{ html }} width="150" height="150" style="float: left"/>
+                <img {{ html }} width="200" height="200" style="float: left"/>
 		</a>
                 {% assign foundImage = 1 %}
 		{% break %}

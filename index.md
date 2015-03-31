@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: intro
 title: About Me
 ---
 {% include JB/setup %}

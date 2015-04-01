@@ -1,8 +1,28 @@
 ---
 layout: post
-title: "new post"
+title: "LifeGuard Robotics"
 description: ""
 category: projects
 tags: []
+comments : false
 ---
 {% include JB/setup %}
+
+<img src="https://users.soe.ucsc.edu/~jash/lib/exe/fetch.php?media=smallerboat.jpg" alt="LifeGuard Robotics Boat" style="width: 250px;" align="right"/>
+As a member of the Autonomous Lifeguard Group I helped develope a system that provides rapid support to distressed swimmers. It is composed of two sub-systems: a command center, which will locate the swimmer, and an autonomous water vessel, which will navigate to the swimmer. The command center is an encoded tripod with a mounted scope that will be located on a Lifeguard’s post. A Lifeguard will center the scope on a distressed swimmer and at the push of a button, the GPS location of the swimmer will be wirelessly sent to the vessel. The vessel, docked in open water, will navigate to the swimmer upon recieving this information. Once the location is reached, the swimmer will grab hold of the vessel and await the arrival of a Lifeguard.
+
+
+## My contributions
+
+My work on this project was composed of multiple parts. 
+
+* Xbee/Zigbee Communication
+* Circuit Board Building/Testing
+* Gant Chart Supervisor
+* Sonar
+
+
+For more information please see our final paper:
+
+[Senior Design Final Report](https://users.soe.ucsc.edu/~jash/lib/exe/fetch.php?media=spring_sdp_final_report.pdf)
+

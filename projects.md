@@ -22,7 +22,7 @@ description: ""
       {% endfor %}
  <b><font size="4"><a href="{{ post.url }}">{{ post.title }}</a></font></b><br>
         {{ post.content | strip_html | truncatewords:40}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
+            <a href="{{ post.url }}">Read more...</a><br><br><br><br>
     </li>
   {% endfor %}
 </ul>

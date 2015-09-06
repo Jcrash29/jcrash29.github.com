@@ -4,13 +4,13 @@ title: About Me
 ---
 {% include JB/setup %}
 
-HELLO! My name is John Ash, and I am a graduate student from the [University of California Santa Cruz](http://www.ucsc.edu). I graduated with a BS in Computer Engineering in 2013, and am currently finishing my MS in Computer Engineering (with an emphasis in robotics and controls).  
+HELLO! My name is John Crannell-Ash, I am a Firmware engineer at [Entrust Datacard](http://www.datacard.com) located in Shakopee Minnesota. I recently finished my Master's degree from the [University of California Santa Cruz](http://www.ucsc.edu), and had previously graduated with honors with a Bachelor's of science in Computer Engineering in 2013.
 
-I am actively looking for full-time engineering positions in the Twin Cities Area. I have a diverse set of interests including robotics, aviations, controls, firmware, and embedded hardware design. 
+I currently have a full time job designing and building firmware for Entrust Datacards, RFID supplies. I have a diverse set of interests including robotics, aviations, controls, firmware, and embedded hardware design. 
 
 This website is designed to provide a high level overview of my skills, interests, and projects.
 
-Please feel free to contact me anytime at jcrash29[-at-]gmail.com
+If you have any interest in my skills or collaborating with me on one of my many projects, please feel free to contact me anytime at jcrash29[-at-]gmail.com
 
 I look forward to speaking with you.
 {% comment %} 

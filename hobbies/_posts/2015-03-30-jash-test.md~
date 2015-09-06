@@ -1,0 +1,8 @@
+---
+layout: post
+title: "JAsh Test"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}

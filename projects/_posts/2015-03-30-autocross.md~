@@ -1,0 +1,10 @@
+---
+layout: post
+title: "autocross"
+description: ""
+category: projects 
+tags: []
+---
+{% include JB/setup %}
+
+![test](https://users.soe.ucsc.edu/~jash/lib/exe/fetch.php?w=200&media=0268.jpg)

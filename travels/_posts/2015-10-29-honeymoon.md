@@ -2,7 +2,7 @@
 layout: post
 title: "Honeymoon in New Zealand"
 description: ""
-category: hobbies
+category: travels
 tags: []
 ---
 {% include JB/setup %}

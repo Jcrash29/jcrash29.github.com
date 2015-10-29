@@ -24,3 +24,9 @@ Marissa and I are nearly finished packing, our suitcase is zipped and the electr
 Today at work I could hardly get anything done out of pure excitement for the upcoming trip. However in between my code reviews and git merges I managed to snag Marissa and I single digit seats on two of our flights tomorrow. This is a large improvement upon the previous seats where we were multiple rows apart from each other.
 
 I'm so excited for tomorrow because when we go to sleep tomorrow I will be with my lovely wife next to the ocean. 
+
+# Day 1 Eden Prairie to Honolulu
+
+Marissa and I have spent the morning getting ready for our trip by cleaning the house and fridge. We also watched the third lord of the rings movie, thereby completing our goal of watching all three lord of the rings movies before our trip. Watching the extended addition LOTR movies brings so much more detail and depth to some of the characters.
+
+At 2 PM we will head to the airport to get on the first flight of our honeymoon. We will fly from Minneapolis St. Paul airport to Seattle, and from there we will fly to Honolulu, where we have a single night by the oceans until our flight to Auckland.

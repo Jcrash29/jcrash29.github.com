@@ -39,7 +39,24 @@ In the airport we had to look for something to keep ourselves entertained so we 
 
 The flight started out rather boring until the end when a flight attendant asked us if we would switch with a woman in the back who  was having a panic attack. Since Marissa and I both know a thing or two about panic attacks we immediately said yes and moved our bags. 5 minutes later the flight attendant showed up with a bag full of whisky. I guess our next flight will be a drunk flight.
 
+## Aloha
+
+The flight to Hawaii felt much longer than it should have. I don't know how I'm going to survive tomorrow's 9-10 hour flight. 
+
+Luckily we discovered that Alaskan airlines has universal 110v chargers at every seat, so our electronics are still at full battery. 
+
+This flight was made interesting for a couple of reasons:
+
+1) The three whisky 7's we got to drink.
+
+2) The complimentary Mai-Tai's.
+
+3) The flight attendant asked over the intercom if there was a doctor on board. I thought that stuff only happened in movies!
+
+I am very ready to get off this plane and fall asleep!
+
 ## Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
+* Matisse: "Spoiler alert. Marisa goes to New Zealand comes back with wrong hobbit."
 

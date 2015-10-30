@@ -25,7 +25,7 @@ Today at work I could hardly get anything done out of pure excitement for the up
 
 I'm so excited for tomorrow because when we go to sleep tomorrow I will be with my lovely wife next to the ocean. 
 
-# Day 1 Eden Prairie to Honolulu
+# Day 1 - Eden Prairie to Honolulu
 
 Marissa and I have spent the morning getting ready for our trip by cleaning the house and fridge. We also watched the third lord of the rings movie, thereby completing our goal of watching all three lord of the rings movies before our trip. Watching the extended addition LOTR movies brings so much more detail and depth to some of the characters.
 
@@ -38,3 +38,8 @@ Marissa and I arrived almost 3 hours early to the airport and very quickly made 
 In the airport we had to look for something to keep ourselves entertained so we spent the entire time playing Ingress and quickly realized that GPSs are not meant to work inside buildings.
 
 The flight started out rather boring until the end when a flight attendant asked us if we would switch with a woman in the back who  was having a panic attack. Since Marissa and I both know a thing or two about panic attacks we immediately said yes and moved our bags. 5 minutes later the flight attendant showed up with a bag full of whisky. I guess our next flight will be a drunk flight.
+
+## Quotes
+
+* Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
+

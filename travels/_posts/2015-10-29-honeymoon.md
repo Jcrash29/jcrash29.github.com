@@ -55,8 +55,20 @@ This flight was made interesting for a couple of reasons:
 
 I am very ready to get off this plane and fall asleep!
 
-## Quotes
+# Day 2 - Honolulu to Aukland
+
+This morning after getting a lovely 8 hours of sleep Marissa and I walked to the ocean. Marissa and I both agreed that the weather was rather hot and humid. Marissa immediately melted into a puddle and I took a dip in the ocean.
+
+We spent the next 40 minutes looking for a local cafe/restaurant without luck and so settled for an international restaurant (of pancakes). 
+
+When we got to the airport it was extremely packed, but we got to the gate with time to spare. But we will never be ready for this 9 hour flight.
+
+Can't wait to get to New Zealand and really start our trip!
+
+
+# Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
 * Matisse: "Spoiler alert. Marisa goes to New Zealand comes back with wrong hobbit."
-
+* Marissa: " is that a goat on a leaf?"
+* Hawaiian airlines lady: "There will be no late boarding. No exceptions. Mahalo." --- Us: "Mahalo, also known as a subtle fuck you"

@@ -65,6 +65,14 @@ When we got to the airport it was extremely packed, but we got to the gate with 
 
 Can't wait to get to New Zealand and really start our trip!
 
+## Aukland
+
+Someone we survived our flight. It helped that they had unlimited complimentary movies. It gave Marissa and I the chance to watch inside out.
+
+The bad part is that this flight gave me more than enough time to realize that I do not have a pre planned method for getting to our hotel, nor do I have a phone for calling the hotel. Luckily we are in a country that speaks English and we can ask for help. 
+
+I just hope we get enough sleep because we have a fun tour planned early tomorrow morning.
+
 
 # Quotes
 

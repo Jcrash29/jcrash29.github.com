@@ -73,6 +73,24 @@ The bad part is that this flight gave me more than enough time to realize that I
 
 I just hope we get enough sleep because we have a fun tour planned early tomorrow morning.
 
+# Day 3 - Aukland tour
+
+While in Aukland we are staying at the Langham hotel. Which is a surprisingly nice hotel. We went to bed very quickly after our long flight. 
+
+The next morning we woke up early to get some breakfast before our long New Zealand tour. The breakfast just like the hotel was very fancy and included a chocolate fountain and very good cheese.
+
+We than took a quick taxi to a bus stop to get on our tour. It's currently a 2 hour drive to the Waitimo caves. The tour has given us a great chance to see the New Zealand scenery and learn about its history and culture. 
+
+## Waitimo caves
+
+Just before lunch we arrived at the Waitimo glow worm caves. It was a 45 minute tour which took us through the limestone caves and than on a short boat ride in the dark to see the worms.
+
+The caves were full of stalagmites and stalactites. The glow worms connect themselves to the limestone ceiling and drop a small thread/web down which they use to catch insects.
+
+We than drove towards Rotorua and stopped at a farm. Our hobbiton bus wasn't to arrive for 30 minutes so we stayed at the farm and looked at the animals. We also got to see a dog attempt to heard some sheep. The dog was clearly having the time of its life even though it failed to get the sheep into the gate.
+
+Currently we are on the hobbiton bus with a very interesting driver. 
+
 
 # Quotes
 
@@ -80,3 +98,6 @@ I just hope we get enough sleep because we have a fun tour planned early tomorro
 * Matisse: "Spoiler alert. Marisa goes to New Zealand comes back with wrong hobbit."
 * Marissa: " is that a goat on a leaf?"
 * Hawaiian airlines lady: "There will be no late boarding. No exceptions. Mahalo." --- Us: "Mahalo, also known as a subtle fuck you"
+* hobbit bus driver: "Reality is the opposite of fantasy" --- "that's why hobbiton is the opposite of England"
+* us:  "This driver is an oroboric talker"
+* hobbit bus driver: "hobbiton is very progressive, and doesn't judge based on height so you can be a tall hobbit if you want to be"

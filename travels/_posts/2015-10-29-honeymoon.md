@@ -89,7 +89,15 @@ The caves were full of stalagmites and stalactites. The glow worms connect thems
 
 We than drove towards Rotorua and stopped at a farm. Our hobbiton bus wasn't to arrive for 30 minutes so we stayed at the farm and looked at the animals. We also got to see a dog attempt to heard some sheep. The dog was clearly having the time of its life even though it failed to get the sheep into the gate.
 
-Currently we are on the hobbiton bus with a very interesting driver. 
+Currently we are on the hobbiton bus with a very interesting driver.
+
+## Hobbiton 
+
+It was a sunny Sunday with Sunny the tour guide. The entire trip he referred to us as his team. Marissa and I were given multiple chances to show off our nerdy lord of the rings knowledge. We got many great pictures of the different hobbit holes that had different perspectives 90% and 40%. 
+
+At the end of the tour we were able to get beer, cider and food from the green dragon inn.
+
+We are currently on the bus back to Aukland, we haven't decided what we will do tonight but whatever it is I hope it involves relaxing.
 
 
 # Quotes

@@ -99,6 +99,29 @@ At the end of the tour we were able to get beer, cider and food from the green d
 
 We are currently on the bus back to Aukland, we haven't decided what we will do tonight but whatever it is I hope it involves relaxing.
 
+# Day 4 - Auckland to Rotorua
+
+Last night we got home with all the intentions of taking a few hours to ourselves and than going out for dinner and a drink. What happened instead was we fell asleep and decided not to wake up till 7 in the morning. Apparently we needed the sleep. The whole thing felt a bit like the scene from 500 days of summer, where it shows what he thought would happened compared to what actually happened. However what happened to us was 100x more boring and a 1000x less depressing.
+
+## John and Marissa go Kiwi hunting
+
+A trip to New Zealand wouldn't be complete without a good kiwi sighting. So this morning after we packed our bags we set out on our hunt. We ate breakfast at a cafe which has been called the most hipster cafe in Aukland. However when compared to the hipster cafes of Berkeley I must say this looked like a corporate coffee break. That said the view was amazing and the tea was lovely.
+
+With food in our bellies we set off for the bus that would take us to the kiwi hunting grounds.... The Aukland Zoo. The zoo was lovely and had many birds not seen in America. There were many baby animals including a giraffe and otters. We walked through an area where the wallabies and the emu were not behind cages and could have walked up to us. We also had a chance to see 3 capybaras, play with a family of monkey squirrels. 
+
+Finally we reached our destination the Kiwi house. It was a building where the lights were turned off. It took our eyes a good 3 minutes to adjust. In front of us was a 70 foot long exhibit behind glass. Marissa and I did multiple walk-bys without seeing a single kiwi.
+
+Working under the assumption that the kiwis were hiding we decided to finish our zoo trip and return to the kiwi exhibit in the end.
+
+Upon our return we were happy to note it was only us and 1 other gentleman. We were disappointed because the man had yet to see a kiwi and after 5 minutes of silently walking the exhibit had failed to find one as well.
+
+As we were walking towards the exit a slight movement caught my eye, and than I saw it. Standing right next to the glass was a flightless bird must larger than I had imagined it. I called over my other 2 companions in the hunt and we watched the elusive kiwi with great interest. Only a couple minutes later Marissa pointed towards the back of the exhibit at another kiwi not 5 feet away from us, and yet none of us had seen it. Marissa and I spent a good 15 minutes watching the kiwis dig in the ground and crawl over things. During which time we found a third kiwi. 
+
+I don't think kiwis are known for there camouflage, but they certainly should be.
+
+
+After our successful hunt we took the bus back to the main city at the base of the Auckland sly tower. We spent time at the bottom of the sky tower watching people free fall from the top. Before we got on our bus we stopped for a New Zealand Kabob. Marissa and I were both impressed by how good the lamb tasted.
+
 
 # Quotes
 

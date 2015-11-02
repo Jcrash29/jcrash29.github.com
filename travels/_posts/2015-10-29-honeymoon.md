@@ -123,6 +123,22 @@ I don't think kiwis are known for there camouflage, but they certainly should be
 After our successful hunt we took the bus back to the main city at the base of the Auckland sly tower. We spent time at the bottom of the sky tower watching people free fall from the top. Before we got on our bus we stopped for a New Zealand Kabob. Marissa and I were both impressed by how good the lamb tasted.
 
 
+## Rotorua
+
+Getting off the bus from Aukland we immediately walked to a pub, the pig and whistle. We sat in the back patio area watching highlights from the recent rugby World Cup. We both agreed that rugby was rather interesting, but mostly funny.
+
+I finally had a chance to try a New Zealand beer from Mac. It was a lovely 5.4% IPA. 
+
+Marissa and I each ordered an entree, fish and chips and the bacon beef mushroom burger. The food was HUGE! We took most of it with us in 3 boxes.
+
+Sadly by the time we were ready to leave the pub, the last bus had already left. So we got the pub to call us a taxi and made our way to the motel.
+
+The woman at the front desk was lovely and promised to arrange transportation for us when we left and to arrange transportation to the local parks and tours. She also offered us two bikes for tomorrow, we were throughly impressed. 
+
+Our room also had a large spa which we immediately took advantage off.
+
+Now though it has been another long day, and it is time to relax.
+
 # Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
@@ -132,3 +148,4 @@ After our successful hunt we took the bus back to the main city at the base of t
 * hobbit bus driver: "Reality is the opposite of fantasy" --- "that's why hobbiton is the opposite of England"
 * us:  "This driver is an oroboric talker"
 * hobbit bus driver: "hobbiton is very progressive, and doesn't judge based on height so you can be a tall hobbit if you want to be"
+* Marissa: "This ketchup tastes like popurrie"

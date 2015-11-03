@@ -151,6 +151,16 @@ After breakfast we took another short ride ( Marissa would like me to add that t
 
 We than continues our ride through the city to the lake where we encountered many large black swans and a beautiful view. We spent some time shopping in the boutiques and than proceeded back to the motel for a rest before we continued our day.
 
+## Geysers
+
+After a short rest the motel owner dropped us off at a local Maori geyser attraction. We went on a 1 hour tour of some amazing wood carving and basket weaving. Before we were taken down to the mud pools and geysers. 
+
+The geyser is the largest in New Zealand, and went off for about 20 minutes. I don't entirely understand how geysers work and am now determined to create my own smaller geyser.
+
+After the tour Marissa and I walked back to the motel for a quick rest and to determine where we would eat dinner. With only the bikes at our disposal we decided upon a restaurant that featured local New Zealand cooking. What we discovered when we got to the restaurant is that New Zealand food is just like American food, just with more lamb and better beef. So therefore the meal was lovely. Though we once again did struggle with paying the check (do we ask him for it? Will he bring it to us? Etc)
+
+On the way home we stopped at a local grocery store to pick some items up for our 8 hour bus ride tomorrow. We had a great time looking at their biscuits (cookies). We were also continually amused by their signs which said things such as: "I'm already saving you from opening the front door". 
+
 
 # Quotes
 

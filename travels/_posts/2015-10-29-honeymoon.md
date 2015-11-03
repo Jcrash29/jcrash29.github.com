@@ -139,13 +139,27 @@ Our room also had a large spa which we immediately took advantage off.
 
 Now though it has been another long day, and it is time to relax.
 
+# Day 5: R&R (Rotorua and Relaxation)
+
+Today is the first day of our honeymoon where we will not get on a plane or bus. Today we are spending the entire day in Rotorua. 
+
+This morning we got a chance to sleep in and discuss our activities today. We quickly determined that we needed to eat breakfast before anything else. So using to two bikes provided by the motel we took a short ride into the city to have a very relaxing brunch.
+
+When we were finished eating our eggs Benedict and ceaser salad we waited for the waitress to drop off the bill. After 5 minutes I decided to ask the waitress how we pay. She explained to us that in most of New Zealand you simply walk to the cash register where they will print the receipt and than you pay.
+
+After breakfast we took another short ride ( Marissa would like me to add that the trip would have been shorter if I hadn't gotten us lost... Twice), to the local geothermal park. This park had been the site of a 2003 explosion that covered the area in mud. There were dozens of boiling mud pits and boiling water craters. 
+
+We than continues our ride through the city to the lake where we encountered many large black swans and a beautiful view. We spent some time shopping in the boutiques and than proceeded back to the motel for a rest before we continued our day.
+
+
 # Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
-* Matisse: "Spoiler alert. Marisa goes to New Zealand comes back with wrong hobbit."
+* Matisse: "Spoiler alert. Marissa goes to New Zealand comes back with wrong hobbit."
 * Marissa: " is that a goat on a leaf?"
 * Hawaiian airlines lady: "There will be no late boarding. No exceptions. Mahalo." --- Us: "Mahalo, also known as a subtle fuck you"
 * hobbit bus driver: "Reality is the opposite of fantasy" --- "that's why hobbiton is the opposite of England"
 * us:  "This driver is an oroboric talker"
 * hobbit bus driver: "hobbiton is very progressive, and doesn't judge based on height so you can be a tall hobbit if you want to be"
 * Marissa: "This ketchup tastes like popurrie"
+* Sign: "The number one hazard is YOU"

@@ -139,7 +139,7 @@ Our room also had a large spa which we immediately took advantage off.
 
 Now though it has been another long day, and it is time to relax.
 
-# Day 5: R&R (Rotorua and Relaxation)
+# Day 5 - R&R (Rotorua and Relaxation)
 
 Today is the first day of our honeymoon where we will not get on a plane or bus. Today we are spending the entire day in Rotorua. 
 
@@ -159,7 +159,13 @@ The geyser is the largest in New Zealand, and went off for about 20 minutes. I d
 
 After the tour Marissa and I walked back to the motel for a quick rest and to determine where we would eat dinner. With only the bikes at our disposal we decided upon a restaurant that featured local New Zealand cooking. What we discovered when we got to the restaurant is that New Zealand food is just like American food, just with more lamb and better beef. So therefore the meal was lovely. Though we once again did struggle with paying the check (do we ask him for it? Will he bring it to us? Etc)
 
-On the way home we stopped at a local grocery store to pick some items up for our 8 hour bus ride tomorrow. We had a great time looking at their biscuits (cookies). We were also continually amused by their signs which said things such as: "I'm already saving you from opening the front door". 
+On the way home we stopped at a local grocery store to pick some items up for our 8 hour bus ride tomorrow. We had a great time looking at their biscuits (cookies). We were also continually amused by their signs which said things such as: "I'm already saving you from opening the front door".
+
+# Day 6 - Rotorua to Wellington
+
+Today when we woke up it was raining. Which we decided meant it was the perfect day to spend traveling 8 hours to Wellington. However, our goal had been to see the beautiful country side, however the heavy rains and clouds prevented that for a couple of hours. Instead we planned our time in Wellington.
+
+Once the rain let up we got a chance to watch the beautiful green country side. 
 
 
 # Quotes
@@ -173,3 +179,5 @@ On the way home we stopped at a local grocery store to pick some items up for ou
 * hobbit bus driver: "hobbiton is very progressive, and doesn't judge based on height so you can be a tall hobbit if you want to be"
 * Marissa: "This ketchup tastes like popurrie"
 * Sign: "The number one hazard is YOU"
+* John: "Did that sign just say Owlcatraz"
+* Store Window: "Youth Place, it's just like your mates place. If your mate had won the lotto."

@@ -167,6 +167,49 @@ Today when we woke up it was raining. Which we decided meant it was the perfect 
 
 Once the rain let up we got a chance to watch the beautiful green country side. 
 
+## Books, books everywhere!
+
+After arriving in Wellington we made our way via bus (with the most un-helpful and rude bus driver) to the book lovers inn. We got dressed for the night and headed out on the town.
+
+Our first stop was to a New Zealand Deep South restaurant. We were so excited to see what their view on southern food was. Marissa got the ribs and I got the fried chicken. We were pleasantly surprised, it could never compete with real southern cooking, but it came very close.
+
+
+After that we made our way to the Library for drinks. No, it was not an actual Library it was a tiny little bar nestled in the heart of downtown. Their drinks were lovely.
+
+# Day 7 - Wellington to Christchurch 
+
+Today started with a lovely breakfast from our wonderul hostess. We talked about our New Zealand trip and things to do. It turns out our host is writing a WW1 history of New Zealand women. So of course Marissa and her hit it off. 
+
+She allowed us to leave our bags in the room for the day until our flight which was lovely, and allowed us to not have to carry out bags with us.
+
+Marissa and I set off on our adventure not soon after breakfast. We did a quick walk through the forest behind the inn. The path we were on was famous for being shown on the lord of the rings as the first shot where the hobbits hide from the nazgul.
+
+The forest path let us out at the harbor where we walked along the ocean. We were both glad we brought our thick jackets because the wind was quite brisk.
+
+We finished our jaunt at wellingtons museum, Te
+Papa. The museum showed us a lot of cool Maori tools and paintings. For example did you know they can recognize themselves simply from the face tattoos? We also saw the first and only giant squid on display at a museum. Also apparently America is 30 years behind New Zealand on gay rights.
+
+After leaving the museum we went to a local cafe and had fish and chips and nachos, while planning the rest of our day.
+
+## We're taking the miniatures to Isengard
+
+With the time we had left in Wellington we decided to go take a look at where the Minatures for lord of the rings were created. 
+
+What we discovered when we got there was that they provided way more than that. Not only did they do all the costumes and molding. They had also worked on many other films including Tin Tin, Hell boy, Avengers, and Avatar.
+
+The tour was amazing and we learned how they made all the replicas (casting, and injection molding). We also got to see things such a halo warthog that could actually be driven, a 12 foot avatar, and an Uriaki( lord of the rings. Spelling?)
+
+We also got to see some other really cool things such as sculpted Guinea pigs in armor, and board game parts for the future labyrinth board game.
+
+After our awesome big-ature tour we headed back to the hotel for a quick shower before heading to the airport.
+
+## Airport security
+
+The airport was decorated with many giant hobbit and lord of the rings replicas including a blinking Smaug. 
+
+Getting out boarding passes was easy, all we needed to do was input our code into a kiosk to get out boarding passes. We than walked all the way to the gate, where we went through a short bag scan and metal detector, they didn't even check our passports or ids. The entire trip we have been surprised by the differences in security. For example, it was more difficult for us to get into a bar than it was for us to get on a flight.
+
+The flight was beautiful because we got to have an Ariel view of New Zealand as the sun was setting.
 
 # Quotes
 

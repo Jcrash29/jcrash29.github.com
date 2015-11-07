@@ -211,6 +211,30 @@ Getting out boarding passes was easy, all we needed to do was input our code int
 
 The flight was beautiful because we got to have an Ariel view of New Zealand as the sun was setting.
 
+# Day 8 - The last kiwi
+
+The last two nights Marissa and I had discovered under the bed heaters. We than quickly discovered that these heaters are amazing on cold nights like southern New Zealand has. That is to say we woke up feeling like magic.
+
+We ate breakfast at the inn and tried several of the different honeys available. After breakfast we headed out to the town to walk around and see everything.
+
+On our walk we finally started to see some the destruction from 2011. It was sobering, we had no idea how large the earthquake was and how many lives it affected. On our walk we also passed the Re: Store which is a little shopping area made out of shipping containers. We went into a lovely bookstore and purchased: the welcome to nightvale book and the disc world atlas (not yet available in the us).
+
+We than continued our journey to the botanical gardens, which we simply amazing and beautiful. We sat outside at a lovely cafe among the flowers. 
+
+As we were leaving the area we stopped at a small museum and saw many very old tools and displays. The museum also had an exhibit on many of the South Pole exhibitions since they originated often times from New Zealand.
+
+On the way back to the hotel we stopped at a local strip mall to pickup snacks for our trip home. We have become quite amused by the chocolates and candies in New Zealand.
+
+In the strip mall we also stopped at the Mc Donald's to see what type of differences they had from the ones in the states. 
+
+We discovered that generally they are all the same, just many more options for specialty salt seasonings and aioli. However we did find a burger called "The Boss" which was made with Swiss cheese and local cows. We had to try it. We immediately decided that it did not taste like Mc Donald's instead it tasted like an actual burger, and was priced accordingly.
+
+Finally after our long day we headed home. Along the way we enjoyed looking at much of the art the city had put up. By this point we had begun to assume that all memorials were for the earthquake, and therefore were surprised when we found a memorial for firefighters made out of pieces of the twin towers. 
+
+Once back at the hotel we took a nap, and rested. We headed to the brewery for dinner where Marissa got her last meat pie of the trip, and I my last beer. We spent about 3 hours in the brewery tucked off in a corner where I was reading welcome to nightvale aloud for Marissa and I.
+
+Finally we went back home and re packed everything for our flight long flight home tomorrow.
+
 # Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"
@@ -224,3 +248,4 @@ The flight was beautiful because we got to have an Ariel view of New Zealand as 
 * Sign: "The number one hazard is YOU"
 * John: "Did that sign just say Owlcatraz"
 * Store Window: "Youth Place, it's just like your mates place. If your mate had won the lotto."
+* Marissa: "Got it, so seals sing techno."

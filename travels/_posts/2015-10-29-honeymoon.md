@@ -235,6 +235,18 @@ Once back at the hotel we took a nap, and rested. We headed to the brewery for d
 
 Finally we went back home and re packed everything for our flight long flight home tomorrow.
 
+#Day 9-10 Christchurch to Home.
+
+We woke up at 4:00 in the morning so we could get a taxi to the airport in time. Our first flight took us to Sydney. On the flight into sydney we were able to see the opera house and some very large cruise ships. 
+
+Sadly the rest of our 8 hour visit to sydney was spent in the airport. Every gate of the airport was packed and there was no place to get away from people. However as we were traveling the airport we came across an American Express Lounge where we were able to enter with the help of our cost co card. We immediatly took up positions on a couch and enjoyed the complimentary cocktails, beer, and food. 
+
+After 6:30 hours we were finally starting to board our 16 hour flight from Sydney to Texas. I ended up watching 5 movies, because sleeping was made impossible due to the 6 year old behind us who wouldn't stop screaming.
+
+We made it back to Minnesota at Midnight and were picked up by the crannells, where upon when we got home we immediatly fell asleep, happy to be in our own beds.  
+
+
+
 # Quotes
 
 * Marissa: "I wonder if New Zealand has a microchiping program for hobbits in case you get lost"

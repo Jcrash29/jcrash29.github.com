@@ -13,6 +13,10 @@ Thursday October 29th exactly two months after our wedding my wife and I will be
 
 I intend to use this post to blog our daily trips, and share our pictures. 
 
+
+
+<img src="{{site.url}}http://images.nationalgeographic.com/wpf/media-live/graphic/map-new-zealand-360x270-cb1446695858.gif" alt="National Geographic map of new zealand" style="width: 250px;" align="right"/>
+
 # Day 0 - Eden Prairie
 
 In my experience I find that the day before a trip is the most stressful. I generally will have completely forgotten to pack anything and so will spend half the night throwing things in a suitcase until all that's left is the kitchen sink. This trip however Marissa has not allowed me to fall into my general traps. Instead I've gone over my packing list at least 30 times and yet, I'm certain I will have inevitably left something behind. Generally this situation is avoided by me packing more. However with this trip Marissa and I are limited on space.

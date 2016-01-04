@@ -65,9 +65,9 @@ I am very ready to get off this plane and fall asleep!
 
 This morning after getting a lovely 8 hours of sleep Marissa and I walked to the ocean. Marissa and I both agreed that the weather was rather hot and humid. Marissa immediately melted into a puddle and I took a dip in the ocean.
 
-We spent the next 40 minutes looking for a local cafe/restaurant without luck and so settled for an international restaurant (of pancakes). 
-
 <img src="{{site.url}}/images/travels/IMG_0004.JPG" alt="The hotel across the street" style="width: 250px;" align="left"/>
+
+We spent the next 40 minutes looking for a local cafe/restaurant without luck and so settled for an international restaurant (of pancakes). 
 
 When we got to the airport it was extremely packed, but we got to the gate with time to spare. But we will never be ready for this 9 hour flight.
 
@@ -103,8 +103,7 @@ Currently we are on the hobbiton bus with a very interesting driver.
 
 It was a sunny Sunday with Sunny the tour guide. The entire trip he referred to us as his team. Marissa and I were given multiple chances to show off our nerdy lord of the rings knowledge. We got many great pictures of the different hobbit holes that had different perspectives 90% and 40%. 
 
-<img src="{{site.url}}/images/travels/IMG_0349.JPG" alt="Bus to Hobbiton" style="width: 250px;" align="left"/>
-<img src="{{site.url}}/images/travels/IMG_0397.JPG" alt="Bus to Hobbiton" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/IMG_0397.JPG" alt="Us at Hobbiton" style="width: 250px;" align="right"/>
 
 At the end of the tour we were able to get beer, cider and food from the green dragon inn.
 

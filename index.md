@@ -4,15 +4,12 @@ title: About Me
 ---
 {% include JB/setup %}
 
-HELLO! My name is John Crannell-Ash, I am a Firmware engineer at [Entrust Datacard](http://www.datacard.com) located in Shakopee Minnesota. I recently finished my Master's degree from the [University of California Santa Cruz](http://www.ucsc.edu), and had previously graduated with honors with a Bachelor's of science in Computer Engineering in 2013.
+HELLO! My name is **John Crannell-Ash**. This site is designed to give a high level overview of my skills, work, and life experiences. I am currently employed by [Entrust Datacard](http://www.datacard.com), in Shakopee Minnesota, as a firmware engineer. I earned my Master's in Computer Engineering (with an emphasis in robotics and controls) while studying at the [University of California Santa Cruz](http://www.ucsc.edu), 
 
-I currently have a full time job designing and building firmware for Entrust Datacards, RFID supplies. I have a diverse set of interests including robotics, aviations, controls, firmware, and embedded hardware design. 
+I have a diverse set of interests including robotics, autonomous vehicles, aviation, controls, firmware, electrical design, mechanical design, and embedded hardware design. 
 
-This website is designed to provide a high level overview of my skills, interests, and projects.
+I am actively interested in working on new projects. If you have any interest in  collaborating with me on one of my many projects, or feel I could provide help to your project; please contact me anytime at jcrash29[-at-]gmail.com
 
-If you have any interest in my skills or collaborating with me on one of my many projects, please feel free to contact me anytime at jcrash29[-at-]gmail.com
-
-I look forward to speaking with you.
 {% comment %} 
 ![name of the image](http://www.racinghelmets.eu/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/h/shield_dsaf_rs3_ml_red_1.jpg)
 {% endcomment %} 

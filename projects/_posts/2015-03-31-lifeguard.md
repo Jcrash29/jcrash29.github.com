@@ -9,7 +9,7 @@ comments : false
 {% include JB/setup %}
 
 
-<img src="{{site.url}}/images/smallerboat.png" alt="LifeGuard Robotics Boat" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/lifeguard_robotics/smallerboat.png" alt="LifeGuard Robotics Boat" style="width: 250px;" align="right"/>
 As a member of the Autonomous Lifeguard Group I helped develope a system that provides rapid support to distressed swimmers. It is composed of two sub-systems: a command center, which will locate the swimmer, and an autonomous water vessel, which will navigate to the swimmer. The command center is an encoded tripod with a mounted scope that will be located on a Lifeguard’s post. A Lifeguard will center the scope on a distressed swimmer and at the push of a button, the GPS location of the swimmer will be wirelessly sent to the vessel. The vessel, docked in open water, will navigate to the swimmer upon recieving this information. Once the location is reached, the swimmer will grab hold of the vessel and await the arrival of a Lifeguard.
 
 
@@ -35,7 +35,7 @@ Based on this new framework we were able to properly communicate between the two
 #### Circuit board
 
 
-<img src="https://users.soe.ucsc.edu/~jash/lib/exe/fetch.php?media=boat_io_boad.jpg" alt="LifeGuard Robotics Boat" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/lifeguard_robotics/cc_io_board.jpg" alt="LifeGuard Robotics Boat" style="width: 250px;" align="right"/>
 Our system relied on the accurate connection of many sensors, and therefore it was quickly decided that a printed circuit board(PCB) would be requiered. Due to my expereince with the CNC board mill it was decided that I should build and test many of our two layer board designs. Along with my team-mate Shehadeh, we set out to build our circuit boards in eagle.
 
 #### GANTT Chart and Waterfall Method
@@ -54,10 +54,13 @@ Our project attempted to use a sonar sensor to detect when we were within the pr
 Before begining work on LifeGuard Robotics we were required to create a power point presentation stating our intentions, goals, and methodology. This power point presentation can be found [here]({{site.url}}/Documents/lifeguard_robotics/ProjectProposalPresentation_FINAL.pdf)
 
 As a high performing team we were given the opportunity to present our research to high ranking faculty and local businesses including Google, Apple, and Xilinx. We were given 15 minutes to present a power point presentation for these companies. After the presentation we were asked many questions and there was clearly a lot of interest in what were doing. Our presentation can be found [here]({{site.url}}/Documents/lifeguard_robotics/ALG_PartnersDay_SlidePresentation_V4.pdf)
+
 ## Posters
 
 Our research design project was presented to the students and faculty during a poster presentation day. Our Poster can be found [here]({{site.url}}/Documents/lifeguard_robotics/TI_ALG_DESIGN_COMPETITION_POSTER_FINAL.pdf)
+
 ## Papers
+
 For more information please see our final paper:
 
 [Senior Design Final Report]({{site.url}}/Documents/lifeguard_robotics/Spring_SDP_Final_Report.pdf)

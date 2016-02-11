@@ -51,10 +51,14 @@ Our project attempted to use a sonar sensor to detect when we were within the pr
 
 ## Presentations
 
+Before begining work on LifeGuard Robotics we were required to create a power point presentation stating our intentions, goals, and methodology. This power point presentation can be found [here]({{site.url}}/Documents/lifeguard_robotics/ProjectProposalPresentation_FINAL.pdf)
+
+As a high performing team we were given the opportunity to present our research to high ranking faculty and local businesses including Google, Apple, and Xilinx. We were given 15 minutes to present a power point presentation for these companies. After the presentation we were asked many questions and there was clearly a lot of interest in what were doing. Our presentation can be found [here]({{site.url}}/Documents/lifeguard_robotics/ALG_PartnersDay_SlidePresentation_V4.pdf)
 ## Posters
 
+Our research design project was presented to the students and faculty during a poster presentation day. Our Poster can be found [here]({{site.url}}/Documents/lifeguard_robotics/TI_ALG_DESIGN_COMPETITION_POSTER_FINAL.pdf)
 ## Papers
 For more information please see our final paper:
 
-[Senior Design Final Report](https://users.soe.ucsc.edu/~jash/lib/exe/fetch.php?media=spring_sdp_final_report.pdf)
+[Senior Design Final Report]({{site.url}}/Documents/lifeguard_robotics/Spring_SDP_Final_Report.pdf)
 

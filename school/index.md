@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Skills"
+title: "School"
 description: ""
 ---
 {% include JB/setup %}

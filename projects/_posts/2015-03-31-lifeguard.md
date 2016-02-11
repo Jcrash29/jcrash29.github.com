@@ -59,6 +59,10 @@ As a high performing team we were given the opportunity to present our research 
 
 Our research design project was presented to the students and faculty during a poster presentation day. Our Poster can be found [here]({{site.url}}/Documents/lifeguard_robotics/TI_ALG_DESIGN_COMPETITION_POSTER_FINAL.pdf)
 
+## Videos
+
+<center><div class="youtube" id="QIyKDrquPVg"></div></center>
+
 ## Papers
 
 For more information please see our final paper:

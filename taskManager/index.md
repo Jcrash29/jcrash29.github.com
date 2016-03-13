@@ -11,10 +11,10 @@ description: ""
 	
 	<tr><td>Convert PDF links to pictures</td><td></td><td></td><td></td></tr>
 	
-	<tr><td>
+	<tr><td></td><td></td><td>
 	<a href="{{site.url}}/taskmanager/task/2016/02/12/Wedding_Center_Pieces">
 	Create Project: Wedding Center Pieces</a> 
-	</td><td></td><td></td><td></td></tr>
+	</td><td></td></tr>
 	
 	<tr><td>Online Assasins</td><td></td><td></td><td></td></tr>
 	

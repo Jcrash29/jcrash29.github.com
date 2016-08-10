@@ -22,7 +22,7 @@ possible working titles:
 * Grand Octagon Adventure
 * Four Dogs Four Nights
 
-<img src="{{site.url}}/images/travels/superior/GrandMarais.JPG" alt="Grand Marais sign" style="width: 250px;" align="left"/>
+<img src="{{site.url}}/images/travels/superior/GrandMarais.jpg" alt="Grand Marais sign" style="width: 250px;" align="left"/>
 
 
 # Grand Octagon Adventure (G.O.A.)
@@ -39,11 +39,13 @@ Bear,  (our dog)  was very excited to see his three  favorite dogs.  While the d
 
 All in all the trip has been a lot of fun,  and I am looking forward to our next couple days. 
 
-# Day 1: Always Falling For You
+## Day 1: Always Falling For You
 
 The first day has officially begun.  We started early taking the dogs out and getting them tired. After breakfast  we laid the dogs down for an afternoon nap, and went out on a very long adventure. 
 
-We traveled north along Lake Superior, passing the Grand Portage and stopping at US Canada border. None of us had thought to bring our passports so instead we got out at the rest stop and decided to hike along the Pidgeon river which separates the United States and Canada.  After a short hike,  we reached two separate lookout points for the High falls. 
+We traveled north along Lake Superior, passing the Grand Portage and stopping at US Canada border. None of us had thought to bring our passports so instead we got out at the rest stop and decided to hike along the Pidgeon river which separates the United States and Canada.  
+
+As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
 There are three falls along pigeon river the high falls,  middle falls,  (Some other falls), you can tell they were very creative people.
 
@@ -55,13 +57,20 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Thimble-Berries
 * Indian smoking pipe
 
-<img src="{{site.url}}/images/travels/superior/Plant.JPG" alt="Indian Smoking Pipe " style="width: 250px;" align="left"/>
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Smoking Pipe " style="width: 250px;" align="left"/>
 
-# Day 1:  Dog Lifeguard 
+## Day 1:  Dog Lifeguard 
 
 After the long day in the kennel we knew we needed to tire the dogs out.  Our house is very close to Lake Superior so we decided to take the dogs down to the lake for a good romp.  
 
 The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot waves on the beach,  which initially the dogs were scared of.  Luckily I was wearing boots from my wet suit, and was able to convince the dogs to come in the water with peer pressure. After a couple minutes the dogs were loving it in the waves,  soon we started playing fetch into the water which was a great time. 
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
+
+## Games played 
+
+* Moose In The House
+* Tonkers
+* Cribbage
+* Yahtzee 
 

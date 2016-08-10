@@ -47,6 +47,26 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
+<table width="500" border="0" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+</tr>
+
+</table>
+
 There are three falls along pigeon river the high falls,  middle falls,  (Some other falls), you can tell they were very creative people.
 
 The high falls were easy to reach, so we decided to walk the 3 miles,  round trip to Middle falls. After about 1.5 miles of walking we asked someone how far we were,  he told us we were halfway.  At that point most of the family turned back, leaving just Jamie and I to carry on.  In the end it took twice as long as we predicted and we can promise that it was NOT 3 miles round trip. 

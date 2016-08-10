@@ -100,12 +100,22 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
+## Day 2: Rainy Lazy day
+
+Waking up this morning it was sprinking slightly,  so we decided today would be a good day for shopping.
+
+After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
+
 ## Games played 
 
 * Moose In The House
 * Tonkers
 * Cribbage
 * Yahtzee 
+
+## Forgotten items
+* REAL Maple syrup (Made by Jamie) 
+* jalapenos from the garden
 
 ## Extra Information 
 

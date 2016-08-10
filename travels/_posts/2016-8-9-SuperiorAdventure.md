@@ -50,8 +50,8 @@ As the hike went along three of us got separated from the other three because we
 <table width="500" border="0" cellpadding="5">
 
 <tr>
-<td align="center" valign="center">
-<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 250px />
+<td align="left " valign="left">
+<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 250px" />
 <br />
 </td>
 <td>
@@ -61,7 +61,7 @@ A picture of the six of us at the high falls
 
 
 <tr>
-<td align="center" valign="center">
+<td align="left" valign="left">
 <img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers." style="width: 250px" />
 </td>
 <td>
@@ -70,7 +70,7 @@ The three lost voyagers.
 </tr>
 
 <tr>
-<td align="center" valign="center">
+<td align="left" valign="left">
 <img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="width: 250px" />
 </td>
 <td>

@@ -74,3 +74,7 @@ I stayed in the water just in case one of the dogs got into trouble, but after 1
 * Cribbage
 * Yahtzee 
 
+## Extra Information 
+
+* The house we are staying in is in the shape of an octogan, which is where the name for this blog post came from. 
+

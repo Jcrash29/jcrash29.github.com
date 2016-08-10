@@ -43,26 +43,39 @@ All in all the trip has been a lot of fun,  and I am looking forward to our next
 
 The first day has officially begun.  We started early taking the dogs out and getting them tired. After breakfast  we laid the dogs down for an afternoon nap, and went out on a very long adventure. 
 
-We traveled north along Lake Superior, passing the Grand Portage and stopping at US Canada border. None of us had thought to bring our passports so instead we got out at the rest stop and decided to hike along the Pidgeon river which separates the United States and Canada.  
+We traveled north along Lake Superior, passing the Grand Portage and stopping at US Canada border. None of us had thought to bring our passports so instead we got out at the rest stop and decided to hike along the Pigeon river which separates the United States and Canada.  
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
 <table width="500" border="0" cellpadding="5">
 
 <tr>
-
 <td align="center" valign="center">
-<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="description here" />
+<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 250px />
 <br />
-Caption text centered under the image.
 </td>
+<td>
+A picture of the six of us at the high falls
+</td>
+</tr>
 
+
+<tr>
 <td align="center" valign="center">
-<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="description here" />
-<br />
-Caption text centered under the image.
+<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers." style="width: 250px" />
 </td>
+<td>
+The three lost voyagers.
+</td>
+</tr>
 
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="width: 250px" />
+</td>
+<td>
+Marissa and I with a bear sign. 
+</td>
 </tr>
 
 </table>

@@ -22,6 +22,8 @@ possible working titles:
 * Grand Octagon Adventure
 * Four Dogs Four Nights
 
+<img src="{{site.url}}/images/travels/superior/GrandMarais.JPG" alt="Grand Marais sign" style="width: 250px;" align="left"/>
+
 
 # Grand Octagon Adventure (G.O.A.)
 
@@ -52,6 +54,8 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Raspberries
 * Thimble-Berries
 * Indian smoking pipe
+
+<img src="{{site.url}}/images/travels/superior/Plant.JPG" alt="Indian Smoking Pipe " style="width: 250px;" align="left"/>
 
 # Day 1:  Dog Lifeguard 
 

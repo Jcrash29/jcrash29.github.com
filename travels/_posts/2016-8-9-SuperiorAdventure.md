@@ -47,11 +47,11 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="500" border="0" cellpadding="5">
+<table width="350" border="0" cellpadding="5">
 
 <tr>
 <td align="left " valign="left">
-<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 250px" />
+<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 200px" />
 <br />
 </td>
 <td>
@@ -62,7 +62,7 @@ A picture of the six of us at the high falls
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers." style="width: 250px" />
+<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers." style="width: 200px" />
 </td>
 <td>
 The three lost voyagers.
@@ -71,7 +71,7 @@ The three lost voyagers.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="width: 250px" />
+<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="width: 200px" />
 </td>
 <td>
 Marissa and I with a bear sign. 

@@ -171,7 +171,7 @@ Deer running across the road.
 
 
 <tr>
-<td align="left" valign="left">
+<td align="left" valign="left" width="70%">
 <img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="width: 200px" />
 </td>
 <td>
@@ -190,7 +190,7 @@ Moose, 40 feet away.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/MoosePee.jpg" alt="Moose pee" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/MoosePee.jpg" alt="Moose pee" style="display: block;" />
 </td>
 <td>
 The same moose peeing!  (NSFW?) 

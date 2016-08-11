@@ -101,6 +101,8 @@ Indian Pipe seen on the walk back from the middle falls.
 </td>
 </tr>
 
+</table>
+
 ## Day 1:  Dog Lifeguard 
 
 After the long day in the kennel we knew we needed to tire the dogs out.  Our house is very close to Lake Superior so we decided to take the dogs down to the lake for a good romp.  

@@ -8,7 +8,7 @@ comments : false
 ---
 {% include JB/setup %}
 
-In early August my family and four large dogs took a trip to Grand Marais for a week. These are the men and women of the trip,  this is their story. 
+In early August my family and four large dogs took a trip to Grand Marais for a week. These are the men and women of the trip,  [these are their stories.](https://youtu.be/lMalvNeJFLk)
 
 
 possible working titles:
@@ -47,7 +47,7 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="330" border="0" cellpadding="5">
+<table width="100%" border="1" cellpadding="1">
 
 <tr>
 <td align="left " valign="left">
@@ -90,7 +90,7 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Thimble-Berries
 * [Indian pipe](https://en.m.wikipedia.org/wiki/Monotropa_uniflora)
 
-<table width="330" border="0" cellpadding="5">
+<table width="100%" border="1" cellpadding="1">
 
 <tr>
 <td align="left " valign="left">
@@ -111,7 +111,7 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
-<table width="330" border="0" cellpadding="5">
+<table width="330" border="1" cellpadding="1">
 
 <tr>
 <td align="left " valign="left">
@@ -172,7 +172,7 @@ Deer running across the road.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" width="50%" />
+<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="width: 200px" />
 </td>
 <td>
 Beaver Lodge and the accompanying Beaver (not shown) 
@@ -217,11 +217,7 @@ Sunset
 
 We were only lucky enough to see the moose so well thanks to the great moose whisper.
 
-<table width="100%" border="1" cellpadding="1">
-<tr>
 <center><div class="youtube" id="wgEbI8VOErE"></div></center>
-</tr>
-</table>
 
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
@@ -230,7 +226,7 @@ We stopped at the campground that Diane and Jamie use to teach at.  The Albert L
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" width="50%" />
+<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="width: 200px" />
 </td>
 <td>
 Science Summer Camp with Jamie and Diane 28 years later. 

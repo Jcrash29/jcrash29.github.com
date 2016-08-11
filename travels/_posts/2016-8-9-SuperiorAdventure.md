@@ -8,7 +8,7 @@ comments : false
 ---
 {% include JB/setup %}
 
-In early August my family and four large dogs took a trip to Grand Marais for a week. These are the men and woman of the trip,  this is their story. 
+In early August my family and four large dogs took a trip to Grand Marais for a week. These are the men and women of the trip,  this is their story. 
 
 
 possible working titles:
@@ -163,18 +163,16 @@ At the end of the day,  the family loaded into the van and drove for several hou
 
 The following animals were seen
 
-<table width="330" border="0" cellpadding="5">
+<table width="100%" border="1" cellpadding="1">
 
 <tr>
-<td align="left " valign="left">
-Deer running across the road
-</td>
+Deer running across the road.
 </tr>
 
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" width="50%" />
 </td>
 <td>
 Beaver Lodge and the accompanying Beaver (not shown) 
@@ -219,10 +217,26 @@ Sunset
 
 We were only lucky enough to see the moose so well thanks to the great moose whisper.
 
+<table width="100%" border="1" cellpadding="1">
+<tr>
 <center><div class="youtube" id="wgEbI8VOErE"></div></center>
+</tr>
+</table>
+
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
 
+<table width="100%" border="1" cellpadding="1">
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" width="50%" />
+</td>
+<td>
+Science Summer Camp with Jamie and Diane 28 years later. 
+</td>
+</tr>
+</table>
 
 ## Games played 
 

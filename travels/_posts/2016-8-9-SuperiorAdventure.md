@@ -47,11 +47,11 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="100%" border="1" cellpadding="1">
+<table width="100%" border="1" cellpadding="0">
 
 <tr>
-<td align="left " valign="left">
-<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls" style="width: 200px" />
+<td align="left " valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls"  style="display: block;"/>
 <br />
 </td>
 <td>
@@ -62,7 +62,7 @@ A picture of the six of us at the high falls
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers." style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers."  style="display: block;"/>
 </td>
 <td>
 The three lost voyagers.
@@ -71,7 +71,7 @@ The three lost voyagers.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="display: block;" />
 </td>
 <td>
 Marissa and I with a bear sign. 
@@ -90,11 +90,11 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Thimble-Berries
 * [Indian pipe](https://en.m.wikipedia.org/wiki/Monotropa_uniflora)
 
-<table width="100%" border="1" cellpadding="1">
+<table width="100%" border="1" cellpadding="0">
 
 <tr>
-<td align="left " valign="left">
-<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Pipe" style="width: 200px" />
+<td align="left " valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Pipe" style="display: block;"/>
 </td>
 <td>
 Indian Pipe seen on the walk back from the middle falls. 
@@ -114,8 +114,8 @@ I stayed in the water just in case one of the dogs got into trouble, but after 1
 <table width="330" border="1" cellpadding="1">
 
 <tr>
-<td align="left " valign="left">
-<img src="{{site.url}}/images/travels/superior/BearBow.jpg" alt="Bear playing in the water. " style="width: 200px" />
+<td align="left " valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/BearBow.jpg" alt="Bear playing in the water. "  style="display: block;"/>
 </td>
 <td>
 Bear playing in the water. 
@@ -124,7 +124,7 @@ Bear playing in the water.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/bellaSwimming.jpg" alt="Bella" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/bellaSwimming.jpg" alt="Bella" style="display: block;" />
 </td>
 <td>
 Bella playing fetch in the waves. 
@@ -133,7 +133,7 @@ Bella playing fetch in the waves.
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Waves.jpg" alt="Maple Bear Bella" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/Waves.jpg" alt="Maple Bear Bella" style="display: block;" />
 </td>
 <td>
 Nini and me on the beach with the dogs
@@ -142,7 +142,7 @@ Nini and me on the beach with the dogs
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/ThreeDog.jpg" alt="Maple Bear Bella" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/ThreeDog.jpg" alt="Maple Bear Bella"  style="display: block;"/>
 </td>
 <td>
 Dog party by the lake. 
@@ -163,16 +163,17 @@ At the end of the day,  the family loaded into the van and drove for several hou
 
 The following animals were seen
 
-<table width="100%" border="1" cellpadding="1">
+<table width="100%" border="1" cellpadding="0">
 
 <tr>
+  <tb colspan="2">Deer running across the road</tb>
 Deer running across the road.
 </tr>
 
 
 <tr>
 <td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="display: block;" />
 </td>
 <td>
 Beaver Lodge and the accompanying Beaver (not shown) 
@@ -181,7 +182,7 @@ Beaver Lodge and the accompanying Beaver (not shown)
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Moose.jpg" alt="Moose" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/Moose.jpg" alt="Moose" style="display: block;" />
 </td>
 <td>
 Moose, 40 feet away. 
@@ -198,14 +199,14 @@ The same moose peeing!  (NSFW?)
 </tr>
 
 <tr>
-<td align="left" valign="left">
+<td align="left" valign="left" colspan="2">
 Loon calls from a nearby lake. 
 </td>
 </tr>
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Sunset.jpg" alt="Sunset" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/Sunset.jpg" alt="Sunset" style="display: block;"/>
 </td>
 <td>
 Sunset
@@ -222,11 +223,11 @@ We were only lucky enough to see the moose so well thanks to the great moose whi
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
 
-<table width="100%" border="1" cellpadding="1">
+<table width="100%" border="1" cellpadding="0">
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="width: 300px" />
+<td align="left" valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="display: block;"/>
 </td>
 <td>
 Science Summer Camp with Jamie and Diane 28 years later. 
@@ -234,12 +235,22 @@ Science Summer Camp with Jamie and Diane 28 years later.
 </tr>
 </table>
 
+# Day 3 
+
+The trip is winding down.  We have to be out by 11 tomorrow.  We had another lazy morning playing settlers of catan and laughing about the moose whisper.  (see video above). It has been a lovely trip,  the dogs have been marvelously well behaved. But I suspect everyone is looking forward to a night in their own bed.
+
+We went to town again this morning and saw some beautiful ceramic pottery which was made using a stellar glaze. The glaze made each piece look like a seashell. -Stunning-.  
+
+The weather hasn't been great so I haven't had a chance to swim,  but the plan is that this evening Marissa and I will take some time to let me play in the water while she acts as a lifeguard. 
+
+
 ## Games played 
 
 * Moose In The House
-* Tonkers
-* Cribbage
-* Yahtzee 
+* Tonkers - Thank you Wilhelm
+* Cribbage - Jamie can't  be beaten 
+* Yahtzee - Grandma cheats
+* Settlers of Catan
 
 ## Forgotten items
 * REAL Maple syrup (Made by Jamie) 

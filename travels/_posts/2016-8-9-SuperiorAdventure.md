@@ -157,7 +157,7 @@ Waking up this morning it was sprinking slightly,  so we decided today would be 
 
 After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
 
-## Day 2: Animal hunting 
+## Day 2: [Where's Beardo](http://www.whereswaldo.com/m/images/maps_troy.jpg)
 
 At the end of the day,  the family loaded into the van and drove for several hours hunting in the hopes of seeing a bear or a moose. 
 
@@ -226,7 +226,7 @@ We stopped at the campground that Diane and Jamie use to teach at.  The Albert L
 
 <tr>
 <td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="width: 200px" />
+<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="width: 300px" />
 </td>
 <td>
 Science Summer Camp with Jamie and Diane 28 years later. 

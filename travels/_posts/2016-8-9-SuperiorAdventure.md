@@ -88,7 +88,7 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 
 * Raspberries
 * Thimble-Berries
-* Indian pipe
+* [Indian pipe](https://en.m.wikipedia.org/wiki/Monotropa_uniflora)
 
 <table width="330" border="0" cellpadding="5">
 
@@ -163,12 +163,63 @@ At the end of the day,  the family loaded into the van and drove for several hou
 
 The following animals were seen
 
-* Deer running across the road
-* Beaver Lodge and the accompanying Beaver (Picture to Come) 
-* Moose!!! 
-* The same moose peeing! 
-* We heard loons calling
-* A great sunset
+<table width="330" border="0" cellpadding="5">
+
+<tr>
+<td align="left " valign="left">
+Deer running across the road
+</td>
+</tr>
+
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="width: 200px" />
+</td>
+<td>
+Beaver Lodge and the accompanying Beaver (not shown) 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/Moose.jpg" alt="Moose" style="width: 200px" />
+</td>
+<td>
+Moose, 40 feet away. 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/MoosePee.jpg" alt="Moose pee" style="width: 200px" />
+</td>
+<td>
+The same moose peeing!  (NSFW?) 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+Loon calls from a nearby lake. 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/Sunset.jpg" alt="Sunset" style="width: 200px" />
+</td>
+<td>
+Sunset
+</td>
+</tr>
+
+</table>
+
+
+We were only lucky enough to see the moose so well thanks to the great moose whisper.
+
+<center><div class="youtube" id="wgEbI8VOErE"></div></center>
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
 

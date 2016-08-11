@@ -47,7 +47,7 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="350" border="0" cellpadding="5">
+<table width="330" border="0" cellpadding="5">
 
 <tr>
 <td align="left " valign="left">
@@ -88,9 +88,18 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 
 * Raspberries
 * Thimble-Berries
-* Indian smoking pipe
+* Indian pipe
 
-<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Smoking Pipe " style="width: 250px;" align="left"/>
+<table width="330" border="0" cellpadding="5">
+
+<tr>
+<td align="left " valign="left">
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Pipe" style="width: 200px" />
+</td>
+<td>
+Indian Pipe seen on the walk back from the middle falls. 
+</td>
+</tr>
 
 ## Day 1:  Dog Lifeguard 
 
@@ -100,11 +109,67 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
+<table width="330" border="0" cellpadding="5">
+
+<tr>
+<td align="left " valign="left">
+<img src="{{site.url}}/images/travels/superior/BearBow.jpg" alt="Bear playing in the water. " style="width: 200px" />
+</td>
+<td>
+Bear playing in the water. 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/bellaSwimming.jpg" alt="Bella" style="width: 200px" />
+</td>
+<td>
+Bella playing fetch in the waves. 
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/Waves.jpg" alt="Maple Bear Bella" style="width: 200px" />
+</td>
+<td>
+Nini and me on the beach with the dogs
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="left">
+<img src="{{site.url}}/images/travels/superior/ThreeDog.jpg" alt="Maple Bear Bella" style="width: 200px" />
+</td>
+<td>
+Dog party by the lake. 
+</td>
+</tr>
+
+</table>
+
 ## Day 2: Rainy Lazy day
 
 Waking up this morning it was sprinking slightly,  so we decided today would be a good day for shopping.
 
 After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
+
+## Day 2: Animal hunting 
+
+At the end of the day,  the family loaded into the van and drove for several hours hunting in the hopes of seeing a bear or a moose. 
+
+The following animals were seen
+
+* Deer running across the road
+* Beaver Lodge and the accompanying Beaver (Picture to Come) 
+* Moose!!! 
+* The same moose peeing! 
+* We heard loons calling
+* A great sunset
+
+We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
+
 
 ## Games played 
 

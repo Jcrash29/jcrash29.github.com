@@ -111,7 +111,7 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
-<table width="330" border="1" cellpadding="1">
+<table width="100%" border="1" cellpadding="1">
 
 <tr>
 <td align="left " valign="left" width="70%">
@@ -157,6 +157,18 @@ Waking up this morning it was sprinking slightly,  so we decided today would be 
 
 After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
 
+<table width="100%" border="1" cellpadding="0">
+
+<tr>
+<td align="left" valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/Pizza.jpg" alt="Pizza" style="display: block;"/>
+</td>
+<td>
+Waiting for Pizza makes us crazy. 
+</td>
+</tr>
+</table>
+
 ## Day 2: [Where's Beardo](http://www.whereswaldo.com/m/images/maps_troy.jpg)
 
 At the end of the day,  the family loaded into the van and drove for several hours hunting in the hopes of seeing a bear or a moose. 
@@ -166,8 +178,7 @@ The following animals were seen
 <table width="100%" border="1" cellpadding="0">
 
 <tr>
-  <tb colspan="2">Deer running across the road</tb>
-Deer running across the road.
+  <td colspan="2">Deer running across the road</td>
 </tr>
 
 
@@ -235,14 +246,54 @@ Science Summer Camp with Jamie and Diane 28 years later.
 </tr>
 </table>
 
-# Day 3 
+## Day 3: Settlers Of Grand Marais
 
 The trip is winding down.  We have to be out by 11 tomorrow.  We had another lazy morning playing settlers of catan and laughing about the moose whisper.  (see video above). It has been a lovely trip,  the dogs have been marvelously well behaved. But I suspect everyone is looking forward to a night in their own bed.
 
-We went to town again this morning and saw some beautiful ceramic pottery which was made using a stellar glaze. The glaze made each piece look like a seashell. -Stunning-.  
+We went to town again this morning and saw some beautiful ceramic pottery which was made using a stellar glaze. The glaze made each piece look like a seashell. 
+-Stunning-.  
 
 The weather hasn't been great so I haven't had a chance to swim,  but the plan is that this evening Marissa and I will take some time to let me play in the water while she acts as a lifeguard. 
 
+<table width="100%" border="1" cellpadding="0">
+
+<tr>
+<td align="left" valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/ChickenArt.jpg" alt="Chicken Art" style="display: block;"/>
+</td>
+<tr>
+<td>
+To be honest I'm not entirely sure what/why this is.
+</td>
+</tr>
+</table>
+
+## Day 3: Superior Swimming Abilities
+
+Towards the end of the day, Marissa and I finally found an opportunity to get out to Lake Superior. We drove south towards a rest stop that was close to the lake.  Sadly the waves were all crashing right ontop of several large rocks.  However about 400 feet down the beach was a perfect spot to swim.  I put on my wetsuit and headed into the cold water,  startling several passerbys. 
+
+It had been nearly a year and a half since I had a chance to use my wetsuit in California. I had a great time,  and can't wait till the day I can body surf in the ocean again. 
+
+For the amount of time I spent in the water (40 minutes) the cleanup time  (30 minutes)  wasn't worth it. But the amount of fun,  and memories I had while in the water made it completely worth it. 
+
+## Day 3: Going on a bear hunt 
+
+Gonna catch a big one.
+
+This evening around twilight we decided to drive north along the Gunflint Trail in the hopes of seeing a bear.  
+
+Signs:
+* No Trespassing Please -- So Minnesotan it hurts. 
+
+In the end we started this trip later than our previous trip and stuck to more well traveled roads
+
+But we still managed to have some luck as you can see here. (NSFW) 
+
+There was also the awesome rest area we came across, seen here. 
+
+Songs:
+* The itsy bitsy spider with accents 
+* The rattlan bog
 
 ## Games played 
 
@@ -259,4 +310,16 @@ The weather hasn't been great so I haven't had a chance to swim,  but the plan i
 ## Extra Information 
 
 * The house we are staying in is in the shape of an octogan, which is where the name for this blog post came from. 
+
+<table width="100%" border="1" cellpadding="0">
+
+<tr>
+<td align="left" valign="left" width="70%">
+<img src="{{site.url}}/images/travels/superior/House.jpg" alt="Our House" style="display: block;"/>
+</td>
+<td>
+The octogan house we were staying in. 
+</td>
+</tr>
+</table>
 

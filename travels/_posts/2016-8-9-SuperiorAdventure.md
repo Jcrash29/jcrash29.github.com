@@ -251,7 +251,7 @@ Science Summer Camp with Jamie and Diane 28 years later.
 The trip is winding down.  We have to be out by 11 tomorrow.  We had another lazy morning playing settlers of catan and laughing about the moose whisper.  (see video above). It has been a lovely trip,  the dogs have been marvelously well behaved. But I suspect everyone is looking forward to a night in their own bed.
 
 We went to town again this morning and saw some beautiful ceramic pottery which was made using a stellar glaze. The glaze made each piece look like a seashell. 
--Stunning-.  
+<br>-Stunning-.  
 
 The weather hasn't been great so I haven't had a chance to swim,  but the plan is that this evening Marissa and I will take some time to let me play in the water while she acts as a lifeguard. 
 
@@ -282,6 +282,7 @@ Gonna catch a big one.
 This evening around twilight we decided to drive north along the Gunflint Trail in the hopes of seeing a bear.  
 
 Signs:
+
 * No Trespassing Please -- So Minnesotan it hurts. 
 
 In the end we started this trip later than our previous trip and stuck to more well traveled roads
@@ -291,6 +292,7 @@ But we still managed to have some luck as you can see [here. (NSFW)]({{site.url}
 There was also the awesome rest area we came across, seen [here.]({{site.url}}/images/travels/superior/RestStop.jpg)
 
 Songs:
+
 * The itsy bitsy spider with accents 
 * The rattlan bog
 
@@ -301,6 +303,7 @@ Songs:
 * Cribbage - Jamie can't  be beaten 
 * Yahtzee - Grandma cheats
 * Settlers of Catan
+* Tsuro 
 
 ## Forgotten items
 * REAL Maple syrup (Made by Jamie) 

@@ -4,7 +4,7 @@ title: "Superior Trip"
 description: ""
 category: travels
 tags: []
-comments : false
+comments : true
 ---
 {% include JB/setup %}
 
@@ -287,7 +287,7 @@ Signs:
 
 In the end we started this trip later than our previous trip and stuck to more well traveled roads
 
-But we still managed to have some luck as you can see [here. (NSFW)]({{site.url}}/images/travels/superior/BearLove.jpg)
+[But someone still managed to get lucky(NSFW)]({{site.url}}/images/travels/superior/BearLove.jpg)
 
 There was also the awesome rest area we came across, seen [here.]({{site.url}}/images/travels/superior/RestStop.jpg)
 
@@ -308,6 +308,7 @@ Songs:
 ## Forgotten items
 * REAL Maple syrup (Made by Jamie) 
 * jalapenos from the garden
+* Properly sized aida cloth 
 
 ## Extra Information 
 

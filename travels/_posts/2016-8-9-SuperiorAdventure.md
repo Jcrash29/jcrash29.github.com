@@ -261,7 +261,6 @@ The weather hasn't been great so I haven't had a chance to swim,  but the plan i
 <td align="left" valign="left" width="70%">
 <img src="{{site.url}}/images/travels/superior/ChickenArt.jpg" alt="Chicken Art" style="display: block;"/>
 </td>
-<tr>
 <td>
 To be honest I'm not entirely sure what/why this is.
 </td>
@@ -287,9 +286,9 @@ Signs:
 
 In the end we started this trip later than our previous trip and stuck to more well traveled roads
 
-But we still managed to have some luck as you can see here. (NSFW) 
+But we still managed to have some luck as you can see [here. (NSFW)]({{site.url}}/images/travels/superior/BearLove.jpg)
 
-There was also the awesome rest area we came across, seen here. 
+There was also the awesome rest area we came across, seen [here.]({{site.url}}/images/travels/superior/RestStop.jpg)
 
 Songs:
 * The itsy bitsy spider with accents 

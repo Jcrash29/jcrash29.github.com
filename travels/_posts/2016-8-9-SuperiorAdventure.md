@@ -296,6 +296,17 @@ Songs:
 * The itsy bitsy spider with accents 
 * The rattlan bog
 
+## Day 4 clean up
+
+Well the last day has arrived and involved a lot of work.  We started cleaning and packing as soon as we got up,  and managed to leave the house with plenty of time to spare. 
+
+Two cars,  six people,  and four dogs started the long journey home.
+
+Along the way we stopped in Duluth and had lunch on Grandmas patio with the four dogs.  
+Of course,  it was just our luck to get into MSP during rush hour, but all in all, the trip was uneventful and easy. 
+
+Now that vacation is done, it's time for some R&R.
+
 ## Games played 
 
 * Moose In The House

@@ -1,0 +1,11 @@
+repo_owner: BananaSlug
+repo_name: bananaslug.github.com
+disabled: false
+use_show_action: false
+label_name: Post Comments
+label_color: 666666
+github_application:
+  client_id: da666e21462e0cf3db19
+  code_authenticator: https://jcrashcomments.herokuapp.com/authenticate/
+  callback_url: http://jcrash.com/public/html/gpgc_redirect/index.html
+enable_diagnostics: false

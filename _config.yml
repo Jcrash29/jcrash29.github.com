@@ -9,7 +9,9 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : John - Cr.Ash
-tagline: Computer Engineer (M.S) 
+tagline: Computer Engineer (M.S)
+url: http://jcrash.com
+baseurl: ''
 author :
   name : John Ash
   email : jcrash29[-at-]gmail.com
@@ -25,10 +27,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://BananaSlug.github.io
+production_url : http://jcrash.com
 
-
-url: http://Jcrash.com
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

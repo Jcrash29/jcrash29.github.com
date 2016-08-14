@@ -28,7 +28,7 @@ author :
 production_url : http://BananaSlug.github.io
 
 
-site_url: http://Jcrash.com
+url: http://Jcrash.com
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

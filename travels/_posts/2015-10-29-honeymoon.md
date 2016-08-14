@@ -253,7 +253,7 @@ Once back at the hotel we took a nap, and rested. We headed to the brewery for d
 
 Finally we went back home and re packed everything for our flight long flight home tomorrow.
 
-#Day 9-10 Christchurch to Home.
+# Day 9-10 Christchurch to Home.
 
 We woke up at 4:00 in the morning so we could get a taxi to the airport in time. Our first flight took us to Sydney. On the flight into sydney we were able to see the opera house and some very large cruise ships. 
 

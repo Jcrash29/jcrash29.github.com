@@ -4,7 +4,7 @@ title: "Superior Trip"
 description: ""
 category: travels
 tags: []
-comments : true
+comments : false
 ---
 {% include JB/setup %}
 
@@ -47,7 +47,7 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left " valign="left" width="70%">
@@ -90,7 +90,7 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Thimble-Berries
 * [Indian pipe](https://en.m.wikipedia.org/wiki/Monotropa_uniflora)
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left " valign="left" width="70%">
@@ -111,7 +111,7 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
-<table width="100%" border="1" cellpadding="1">
+<table width="320px" border="1" cellpadding="1">
 
 <tr>
 <td align="left " valign="left" width="70%">
@@ -157,7 +157,7 @@ Waking up this morning it was sprinking slightly,  so we decided today would be 
 
 After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left" valign="left" width="70%">
@@ -175,7 +175,7 @@ At the end of the day,  the family loaded into the van and drove for several hou
 
 The following animals were seen
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
   <td colspan="2">Deer running across the road</td>
@@ -234,7 +234,7 @@ We were only lucky enough to see the moose so well thanks to the great moose whi
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left" valign="left" width="70%">
@@ -255,7 +255,7 @@ We went to town again this morning and saw some beautiful ceramic pottery which 
 
 The weather hasn't been great so I haven't had a chance to swim,  but the plan is that this evening Marissa and I will take some time to let me play in the water while she acts as a lifeguard. 
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left" valign="left" width="70%">
@@ -325,7 +325,7 @@ Now that vacation is done, it's time for some R&R.
 
 * The house we are staying in is in the shape of an octogan, which is where the name for this blog post came from. 
 
-<table width="100%" border="1" cellpadding="0">
+<table width="320px" border="1" cellpadding="0">
 
 <tr>
 <td align="left" valign="left" width="70%">

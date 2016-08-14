@@ -11,6 +11,5 @@
     eventData[kvp[0]] = kvp[1];
   });
   window.opener.postMessage(eventData, targetOrigin);
-  console.log(eventData);
-  console.log(targetOrigin);
+  window.close();
 </script>

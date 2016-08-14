@@ -90,7 +90,6 @@ function initializeEvents() {
 }
 
 function onMessage(event) {
-  console.log(event);
   if (event.data.type === undefined) { return; }
 
   switch (event.data.type) {

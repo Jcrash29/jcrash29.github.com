@@ -22,7 +22,23 @@ possible working titles:
 * Grand Octagon Adventure
 * Four Dogs Four Nights
 
-<img src="{{site.url}}/images/travels/superior/GrandMarais.jpg" alt="Grand Marais sign" style="width: 250px;" align="left"/>
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+
+<td align="center" valign="center">
+
+<img src="{{site.url}}/images/travels/superior/GrandMarais.jpg" alt="Grand Marais sign" width="230"/>
+</td>
+
+<td align="center" valign="center">
+Grand Marais Sign, the city we stayed near. 
+</td>
+
+</tr>
+
+</table>
+
 
 
 # Grand Octagon Adventure (G.O.A.)
@@ -47,33 +63,33 @@ We traveled north along Lake Superior, passing the Grand Portage and stopping at
 
 As the hike went along three of us got separated from the other three because we were off exploring. In order to locate the other group we began making a loon call using our hands.  After sometime Diane noticed our call and had Jamie make the call back to us, allowing us to find each other.  After locating each other and after a short hike,  we reached two separate lookout points for the High falls. 
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left " valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls"  style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Family.jpg" alt="A picture of the six of us at the high falls"   width="230"/>
 <br />
 </td>
-<td>
+<td align="center" valign="center">
 A picture of the six of us at the high falls
 </td>
 </tr>
 
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers."  style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/NiniSandwich.jpg" alt="The three lost voyagers."  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 The three lost voyagers.
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign." style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/BearSign.jpg" alt="A bear sign."  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Marissa and I with a bear sign. 
 </td>
 </tr>
@@ -90,13 +106,13 @@ I can't promise it was 'worth' it, but we did  see some very cool plants.
 * Thimble-Berries
 * [Indian pipe](https://en.m.wikipedia.org/wiki/Monotropa_uniflora)
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left " valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Pipe" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Plant.jpg" alt="Indian Pipe"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Indian Pipe seen on the walk back from the middle falls. 
 </td>
 </tr>
@@ -111,40 +127,40 @@ The four dogs piled out of the car and onto the rocky beach. There were 2-3 foot
 
 I stayed in the water just in case one of the dogs got into trouble, but after 10 minutes it became clear that the dogs were not gonna run into any trouble. 
 
-<table width="320px" border="1" cellpadding="1">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left " valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/BearBow.jpg" alt="Bear playing in the water. "  style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/BearBow.jpg" alt="Bear playing in the water. "   width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Bear playing in the water. 
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/bellaSwimming.jpg" alt="Bella" style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/bellaSwimming.jpg" alt="Bella"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Bella playing fetch in the waves. 
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Waves.jpg" alt="Maple Bear Bella" style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Waves.jpg" alt="Maple Bear Bella"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Nini and me on the beach with the dogs
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/ThreeDog.jpg" alt="Maple Bear Bella"  style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/ThreeDog.jpg" alt="Maple Bear Bella"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Dog party by the lake. 
 </td>
 </tr>
@@ -157,13 +173,13 @@ Waking up this morning it was sprinking slightly,  so we decided today would be 
 
 After a large pancake breakfast we drove down to the city and explored the shops including, Ben Franklin, and The Trading Post. For lunch we had Sven and Oles Pizza. (Not worth the hour wait).
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/Pizza.jpg" alt="Pizza" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Pizza.jpg" alt="Pizza"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Waiting for Pizza makes us crazy. 
 </td>
 </tr>
@@ -175,7 +191,7 @@ At the end of the day,  the family loaded into the van and drove for several hou
 
 The following animals were seen
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
   <td colspan="2">Deer running across the road</td>
@@ -183,28 +199,28 @@ The following animals were seen
 
 
 <tr>
-<td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver" style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/BeaverLodge.jpg" alt="beaver"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Beaver Lodge and the accompanying Beaver (not shown) 
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Moose.jpg" alt="Moose" style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Moose.jpg" alt="Moose"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Moose, 40 feet away. 
 </td>
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/MoosePee.jpg" alt="Moose pee" style="display: block;" />
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/MoosePee.jpg" alt="Moose pee"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 The same moose peeing!  (NSFW?) 
 </td>
 </tr>
@@ -216,10 +232,10 @@ Loon calls from a nearby lake.
 </tr>
 
 <tr>
-<td align="left" valign="left">
-<img src="{{site.url}}/images/travels/superior/Sunset.jpg" alt="Sunset" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/Sunset.jpg" alt="Sunset"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Sunset
 </td>
 </tr>
@@ -234,13 +250,12 @@ We were only lucky enough to see the moose so well thanks to the great moose whi
 
 We stopped at the campground that Diane and Jamie use to teach at.  The Albert Lee Summer Science camp. Jamie and Diane use to teach there in the 80's, and hadn't been back in nearly 8 years. 
 
-<table width="320px" border="1" cellpadding="0">
-
+<table width="300" border="1" cellpadding="0">
 <tr>
-<td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/ScienceCamp.jpg" alt="Science Camp"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 Science Summer Camp with Jamie and Diane 28 years later. 
 </td>
 </tr>
@@ -255,13 +270,13 @@ We went to town again this morning and saw some beautiful ceramic pottery which 
 
 The weather hasn't been great so I haven't had a chance to swim,  but the plan is that this evening Marissa and I will take some time to let me play in the water while she acts as a lifeguard. 
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/ChickenArt.jpg" alt="Chicken Art" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/ChickenArt.jpg" alt="Chicken Art"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 To be honest I'm not entirely sure what/why this is.
 </td>
 </tr>
@@ -325,13 +340,13 @@ Now that vacation is done, it's time for some R&R.
 
 * The house we are staying in is in the shape of an octogan, which is where the name for this blog post came from. 
 
-<table width="320px" border="1" cellpadding="0">
+<table width="300" border="1" cellpadding="0">
 
 <tr>
-<td align="left" valign="left" width="70%">
-<img src="{{site.url}}/images/travels/superior/House.jpg" alt="Our House" style="display: block;"/>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/superior/House.jpg" alt="Our House"  width="230"/>
 </td>
-<td>
+<td align="center" valign="center">
 The octogan house we were staying in. 
 </td>
 </tr>

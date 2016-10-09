@@ -24,3 +24,9 @@ We landed in Boston after bumpy plane ride thanks To hurricane Mathew. Wilhelm m
 Sadly since it was night we were not able to see much,  but I now feel comfortable that wherever I am in Boston I won't get lost.
 
 It has been a very long day,  and it has been great catching up with Wilhelm, but now it's time for sleep,  I'm excited to see Boston in the light.
+
+## Day 1: Jewish bagels
+
+This morning it was raining, A LOT.  We decided to walk to a Jewish bakery. In fact it's the third best Jewish deli in America. Believe me it earned that title.  Marissa was very excited because they didn't use any filler (soy or corn).
+
+I am convinced that all this rain is because of the hurricane, so I can tell people I survived hurricane Mathew, but Marissa and the weather station keeps telling me I'm wrong.

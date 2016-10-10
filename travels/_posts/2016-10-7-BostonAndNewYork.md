@@ -27,6 +27,18 @@ It has been a very long day,  and it has been great catching up with Wilhelm, bu
 
 ## Day 1: Jewish bagels
 
-This morning it was raining, A LOT.  We decided to walk to a Jewish bakery. In fact it's the third best Jewish deli in America. Believe me it earned that title.  Marissa was very excited because they didn't use any filler (soy or corn).
+This morning it was raining, A LOT.  We decided to walk to a Jewish bakery. In fact it's the third best [Jewish deli](http://www.kupelsbakery.com) in America. Believe me it earned that title.  Marissa was very excited because they didn't use any filler (soy or corn).
 
 I am convinced that all this rain is because of the hurricane, so I can tell people I survived hurricane Mathew, but Marissa and the weather station keeps telling me I'm wrong.
+
+## Day 1: Brewery Madness
+
+Using public transportation we visited multiple breweries across the city. Our first stop was Harpoon. The brewery was large and had a similar aesthetic to surley in Minneapolis. 
+
+After eating their wonderful pretzels and 2 flights Marissa went home to take a nap,  while Wilhelm and I went across town to the Sam Adams brewery.  However we were extremely dissapointed to learn that the brewery wasn't open on Sunday. Wilhelm and I couldn't even comprehend the idea so we hadn't bothered to check. 
+
+Well Wilhelm and I not being ones to give up easily.  Took a 40 minute train ride and 15 minute walk through the rain to stop at Night Shade Brewery.  A brewery that specializes in sour beers. There was a very strange smoked lemon beer that I thought was undrinkable, which meant Wilhelm was very happy because it meant more for him. 
+
+After that last brewery we made our way back home and got ready for a large game of seven people seven wonders. After which point we watched the debate (and yelled at the TV). 
+
+The weather for tomorrow is supposed to be much nicer so we are looking forward to exploring the city.

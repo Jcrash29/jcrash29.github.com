@@ -42,3 +42,13 @@ Well Wilhelm and I not being ones to give up easily.  Took a 40 minute train rid
 After that last brewery we made our way back home and got ready for a large game of seven people seven wonders. After which point we watched the debate (and yelled at the TV). 
 
 The weather for tomorrow is supposed to be much nicer so we are looking forward to exploring the city.
+
+## Day 2: Freedom is Magic 
+
+Today was a very long day full of history, friendship and sight seeing. I am actually having a hard time parsing everything we saw so I may simply end up creating a list and posting pictures in the following days. 
+
+* canolis from Mike's
+* The freedom trail
+* American history from a South African. 
+* great conversations about who wehiwant to be and how to reach those goals. 
+* My little pony: Friendship is Magic.

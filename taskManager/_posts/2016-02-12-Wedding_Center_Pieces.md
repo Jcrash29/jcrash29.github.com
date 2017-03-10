@@ -39,4 +39,4 @@ The coding for this project was simple: control 3 PWM outputs. Each controlling 
 
 However in order to make the light changes smooth the PWM signal needs to be changed in a smooth motion. For example as the RED LED is transisitoning from off to on a while loop must be setup that slowly increases the duty cycle to full. On each pass through the while loop the duty cycle increases and than a variable delay is used to change how quickly the LED transitions from one state to another.
 
-The full code for this project can be seen [here](https://github.com/BananaSlug/WeddingCenterPieces).
+The full code for this project can be seen [here](https://github.com/Jcrash29/WeddingCenterPieces).

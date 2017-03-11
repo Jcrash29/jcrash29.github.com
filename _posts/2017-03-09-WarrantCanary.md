@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Warant Canery"
+title: "Warrant Canary"
 description: ""
-category: biking
+category: security
 tags: []
 comments : false
 ---

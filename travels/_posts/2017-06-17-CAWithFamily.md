@@ -9,7 +9,7 @@ comments : false
 {% include JB/setup %}
 
 
-<img src="{{site.url}}http://images.nationalgeographic.com/wpf/media-live/graphic/map-new-zealand-360x270-cb1446695858.gif" alt="National Geographic map of new zealand" style="width: 250px;" align="right"/>
+<img src="http://santacruzskateboards.com/images/logos/sc-dot/sc-dot.svg" alt="Santa Cruz Style" style="width: 250px;" align="right"/>
 
 # Day 0 South Dakota + Fire
 
@@ -53,3 +53,5 @@ After all that sun we decided we needed a nap so we headed home, and all took a 
 * "He can get messed up on a 'two-for-tuesday' special,  on a Monday.  He's a professional" - Steve, about a junkie who dropped his pants in the street 
 
 * "Is that a chihuahua in a baby stroller" - John
+
+<img  src="{{site.url}}/images/travels/CA/Wawo.png" alt="dog in stroller" style="width: 250px;" align="right"/>

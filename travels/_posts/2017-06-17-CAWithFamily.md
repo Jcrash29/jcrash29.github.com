@@ -43,6 +43,9 @@ We stopped over and had my first good Mexican food in years.  Along with a marga
 
 After all that sun we decided we needed a nap so we headed home, and all took a 2-3 hour nap. Once again talking through the night. 
 
+# Day 3 OC to Santa Barbara
+
+It was another lovely morning waking up to coffee with my mom. We chatted for an hour about all parts of life. At around 8:30 people began to wake up and we started to pack for our trip up north.  By waiting till after 9:30 we managed to avoid some (read: not enough)  traffic.  
 
 # Quotes
 
@@ -53,5 +56,7 @@ After all that sun we decided we needed a nap so we headed home, and all took a 
 * "He can get messed up on a 'two-for-tuesday' special,  on a Monday.  He's a professional" - Steve, about a junkie who dropped his pants in the street 
 
 * "Is that a chihuahua in a baby stroller" - John
+
+* "Korean?" -- old man "No,  but about the sample beef jerky" - cost co employee
 
 <img  src="{{site.url}}/images/travels/CA/Wawo.png" alt="dog in stroller" style="width: 250px;" align="right"/>

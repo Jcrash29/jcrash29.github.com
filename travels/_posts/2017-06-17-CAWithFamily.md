@@ -47,6 +47,16 @@ After all that sun we decided we needed a nap so we headed home, and all took a 
 
 It was another lovely morning waking up to coffee with my mom. We chatted for an hour about all parts of life. At around 8:30 people began to wake up and we started to pack for our trip up north.  By waiting till after 9:30 we managed to avoid some (read: not enough)  traffic.  
 
+## Steve has the best job
+
+In Santa Barbara we met with Steve at the Sea Center where he gave us a personal tour of the museum. We got to touch a swell shark, pet a sea hare, learn about jellies, and many other interesting things. 
+
+We were all very jealous of Steve's new office, ocean view every day, working with kids on the beach daily with great colleagues. 
+
+After the museum Steve recommend that we visit the Old Mission to see the recent chalk art that had been drawn.  It was amazing to see such great artists! 
+
+Finally we made our way to Fanchesci Park to get a high altitude view of Santa Barbara. We are all very jealous of the people who get to live up there! 
+
 # Quotes
 
 * "Thank you everyone for being here,  if you weren't here it would just be a couple of nerds getting drunk with our stuff" - Nick at the wedding

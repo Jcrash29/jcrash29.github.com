@@ -53,9 +53,25 @@ In Santa Barbara we met with Steve at the Sea Center where he gave us a personal
 
 We were all very jealous of Steve's new office, ocean view every day, working with kids on the beach daily with great colleagues. 
 
+<img  src="{{site.url}}/images/travels/CA/SbBeach.jpg" alt="those who go" style="width: 250px;" align="right"/>
+
 After the museum Steve recommend that we visit the Old Mission to see the recent chalk art that had been drawn.  It was amazing to see such great artists! 
 
 Finally we made our way to Fanchesci Park to get a high altitude view of Santa Barbara. We are all very jealous of the people who get to live up there! 
+
+After stopping at the hotel we met Steve for dinner at the Boat House. A secret Santa Barbara spot. After a very nice and fish filled dinner we walked along the beach for an hour. Steve warned us about the natural oil,  but people were still surprised when they tried to clean off their feet and they were coated with tar. 
+
+<img  src="{{site.url}}/images/travels/CA/Siblings.jpg" alt="end of the night in SB" style="width: 250px;" align="right"/>
+
+<img  src="{{site.url}}/images/travels/CA/sunset.jpg" alt="M at night" style="width: 250px;" align="right"/>
+
+# Day 4 Santa Barbara to Santa Cruz
+
+Wednesday morning we woke up and joined Steve and George for breakfast at Restaurant Open. Starting our official drive north at 9 AM. Even with the recent land slides we decided to drive highway 1 along the ocean. 
+
+Our first big stop (besides coffee) was to see the elephant seals just north of Hearst castle.  These giant animals can weight up to 3 tons, and the males are extremely territorial. It was great to watch them tussle. 
+
+We also stopped at Nitt Witt Ridge, which is a kiche little house.
 
 # Quotes
 
@@ -67,6 +83,12 @@ Finally we made our way to Fanchesci Park to get a high altitude view of Santa B
 
 * "Is that a chihuahua in a baby stroller" - John
 
+<img  src="{{site.url}}/images/travels/CA/Wawo.png" alt="dog in stroller" style="width: 250px;" align="right"/>
+
 * "Korean?" -- old man "No,  but about the sample beef jerky" - cost co employee
 
-<img  src="{{site.url}}/images/travels/CA/Wawo.png" alt="dog in stroller" style="width: 250px;" align="right"/>
+* "This is a Santa John trip" - all the cities we've stopped in start with Santa and relate to John
+
+* "(Captain) Nitt Witt Ridge -- poor man's Herst Castle"
+
+* "Elevation 1762 ft" -- as we pass on 46 to 101

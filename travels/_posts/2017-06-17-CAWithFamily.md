@@ -71,7 +71,33 @@ Wednesday morning we woke up and joined Steve and George for breakfast at Restau
 
 Our first big stop (besides coffee) was to see the elephant seals just north of Hearst castle.  These giant animals can weight up to 3 tons, and the males are extremely territorial. It was great to watch them tussle. 
 
+We also made a quick stop at the Madonna Inn which usually Marissa and I only view from the highway,  but today we stopped and decided to look around the grounds, including seeing an out of place herein.
+
 We also stopped at Nitt Witt Ridge, which is a kiche little house.
+
+Finally we made it Monterey and stopped at the new (to us) In N Out. Soooooo good. Besides the food we got to meet the dog version of Bat-man,  Mac-man. 
+
+<img  src="{{site.url}}/images/travels/CA/macman.jpg" alt="macman" style="width: 250px;" align="right"/>
+
+# Day 5: Old stomping grounds
+
+Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. 
+
+
+We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. 
+
+
+For lunch we headed to the wharf and ate at the end of the wharf at Dolphin.  After lunch we did a bit of shopping and got our Santa Cruz gear. 
+
+After a short nap at home we drove to Natural Bridges to see the monarchs and the beach.  Sadly the monarch sanctuary was closed down, but the beach was lovely. 
+
+As we drove along the coast we decided to stop at different beautiful points and just take it all in. 
+
+We finished up at the light house and dog beach where we spent a long time watching surfers,  sea otters and of course dogs. 
+
+For dinner we went to Marissas and my favorite spot Burger. After we headed to Santa Cruz Mountain Brewery for good beers, good company, and to meet with two of my good friends. 
+
+
 
 # Quotes
 
@@ -92,3 +118,7 @@ We also stopped at Nitt Witt Ridge, which is a kiche little house.
 * "(Captain) Nitt Witt Ridge -- poor man's Herst Castle"
 
 * "Elevation 1762 ft" -- as we pass on 46 to 101
+
+* "That's the third giraffe we passed today" - John
+
+* "Driving Miss Daisy"

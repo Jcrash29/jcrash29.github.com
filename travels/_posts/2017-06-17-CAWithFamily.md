@@ -81,13 +81,13 @@ Finally we made it Monterey and stopped at the new (to us) In N Out. Soooooo goo
 
 # Day 5: Old stomping grounds
 
-Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. 
+Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. We headed to Kresge College where we saw the '(in)famous' fork in a tree. 
 
 
 We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. 
 
 
-For lunch we headed to the wharf and ate at the end of the wharf at Dolphin.  After lunch we did a bit of shopping and got our Santa Cruz gear. 
+For lunch we headed to the wharf and ate at the end of the wharf at Dolphin.  After lunch we did a bit of shopping and got our Santa Cruz gear. We stopped and watched the sea lions which sadly there was very few of.  But we did get to watch one idiot walk down onto the sea lion platform,  and promptly poop himself.  To calm the sea lion down Diane and I pet the sea lion with our shadows. 
 
 After a short nap at home we drove to Natural Bridges to see the monarchs and the beach.  Sadly the monarch sanctuary was closed down, but the beach was lovely. 
 
@@ -96,6 +96,37 @@ As we drove along the coast we decided to stop at different beautiful points and
 We finished up at the light house and dog beach where we spent a long time watching surfers,  sea otters and of course dogs. 
 
 For dinner we went to Marissas and my favorite spot Burger. After we headed to Santa Cruz Mountain Brewery for good beers, good company, and to meet with two of my good friends. 
+
+
+# Day 6 It was a whale of a day 
+
+This morning we woke up and headed to Monterey. We took the senic route along the ocean to pleasure point and capitola. As we approached Monterey we were lucky because of how sunny it was. 
+
+In Monterey we went on a 3 hour whale watching tour. It was AMAZING!  We saw a dozen humpback whales,  a pod of Risso dolphins, a single sun fish, sea lions,  sea otters, and a black albatross.
+
+I was wearing a go pro the whole time,  and got lots of videos!
+
+After the tour we got some pizza where our young (16 y/o) waiter was doing a great job. 
+
+We than attempted to take the 17 mile drive to Carmel. But no one told us that the 17 mile drive cost $10.75. Its against our morals to pay to drive on a road,  especially when the fog is moving in,  so we attempted to circumvent the road and get to Carmel ourselves. 
+
+This didn't go well.  Google reported that it would take us 10 minutes...  But the primary route they wanted us to take was 17 MILE DRIVE!  After an illegal u-turn, we attempted to get onto highway 1. But it was closed. 
+
+It was quite an adventure with no one wanting to decide where we went next.  In the end we accidentally missed the turn to Santa Cruz and decided to go to Carmel. 
+
+Totally worth it!  We saw two dolphins,  we watched a proposal being setup, and we still made it home in time. 
+
+After a couple hands of up and down,  and some packing we went to bed. 
+
+# Day 7: Goodbye
+
+This morning Diane and Jamie were leaving. Marissa and I packed our large bags allowing us to travel lighter for our final days of vacation. 
+
+Marissa was in need of a break,  so I headed north with Diane and Jamie in the hopes of being dropped off in San Francisco and seeing friends. 
+
+Instead of taking highway 17, we took highway 1 along the ocean. We stopped at Pigeon Point and saw some harbor seals,  and lots of beautiful ocean. 
+
+After heading across the San Francisco Bay I had the in laws drop me off with my Uncle Jerry,  where we talked about life, love,  and the San Francisco gay pride festival. 
 
 
 
@@ -122,3 +153,5 @@ For dinner we went to Marissas and my favorite spot Burger. After we headed to S
 * "That's the third giraffe we passed today" - John
 
 * "Driving Miss Daisy"
+
+* "Remember,  if you go right you're a bike"

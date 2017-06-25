@@ -128,7 +128,9 @@ Instead of taking highway 17, we took highway 1 along the ocean. We stopped at P
 
 After heading across the San Francisco Bay I had the in laws drop me off with my Uncle Jerry,  where we talked about life, love,  and the San Francisco gay pride festival. 
 
+I than took BART into San Francisco to spend time with my good friend Jack. 
 
+We has sushi with another friend of mine, and than Jack,  and I picked up his girlfriend and ice cream and headed to the air BnB in Santa Cruz. 
 
 # Quotes
 

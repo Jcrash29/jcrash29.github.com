@@ -71,6 +71,8 @@ Wednesday morning we woke up and joined Steve and George for breakfast at Restau
 
 Our first big stop (besides coffee) was to see the elephant seals just north of Hearst castle.  These giant animals can weight up to 3 tons, and the males are extremely territorial. It was great to watch them tussle. 
 
+<img  src="{{site.url}}/images/travels/CA/ElephantSeal.jpg" alt="Elephant Seal" style="width: 250px;" align="right"/>
+
 We also made a quick stop at the Madonna Inn which usually Marissa and I only view from the highway,  but today we stopped and decided to look around the grounds, including seeing an out of place herein.
 
 We also stopped at Nitt Witt Ridge, which is a kiche little house.
@@ -84,8 +86,9 @@ Finally we made it Monterey and stopped at the new (to us) In N Out. Soooooo goo
 Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. We headed to Kresge College where we saw the '(in)famous' fork in a tree. 
 
 
-We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. 
+We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. On our way there and back we passed a huge eucalyptus tree which had been cut down.  Jamie decided he wanted to take it home. 
 
+<img  src="{{site.url}}/images/travels/CA/TreeCookie.jpg" alt="Tree Cookie" style="width: 250px;" align="right"/>
 
 For lunch we headed to the wharf and ate at the end of the wharf at Dolphin.  After lunch we did a bit of shopping and got our Santa Cruz gear. We stopped and watched the sea lions which sadly there was very few of.  But we did get to watch one idiot walk down onto the sea lion platform,  and promptly poop himself.  To calm the sea lion down Diane and I pet the sea lion with our shadows. 
 
@@ -96,6 +99,8 @@ As we drove along the coast we decided to stop at different beautiful points and
 We finished up at the light house and dog beach where we spent a long time watching surfers,  sea otters and of course dogs. 
 
 For dinner we went to Marissas and my favorite spot Burger. After we headed to Santa Cruz Mountain Brewery for good beers, good company, and to meet with two of my good friends. 
+
+<img  src="{{site.url}}/images/travels/CA/SCMB.jpg" alt="Brewery" style="width: 250px;" align="right"/>
 
 
 # Day 6 It was a whale of a day 
@@ -132,6 +137,27 @@ I than took BART into San Francisco to spend time with my good friend Jack.
 
 We has sushi with another friend of mine, and than Jack,  and I picked up his girlfriend and ice cream and headed to the air BnB in Santa Cruz. 
 
+# Day 8 Lazy Sunday
+
+After a great night's sleep and a great morning with Jack and Dita. We went shopping with our friends in downtown Santa Cruz. 
+
+We took a well needed break on the dog beach, a nap, and finished up with pizza at Woodstock's Pizza. 
+
+That night we met up with several Santa Cruz friends at the local brewery,  Santa Cruz Mountain Brewery,  where I had too much to drink and had an amazing time! I made speeches thanking my friends for being awesome and had some of my best memories in Santa Cruz.
+
+# Day 9 Monday Funday
+
+Amazingingly enough I did not wake up with a hangover.  But we did once again sleep in,  and take some naps. 
+
+We had always planed for Monday to be a day of rest before we began our travels home,  and it was great. 
+
+For lunch I had Hawaiian grill Poke.  It's almost like a build your own sushi. 
+
+That night I went out with friends to the Santa Cruz Board Walk and had a fun time on several rides.  Including the merry go round where you get to throw metal rings at a clown. 
+
+All in all this has been an amazing trip. 
+
+
 # Quotes
 
 * "Thank you everyone for being here,  if you weren't here it would just be a couple of nerds getting drunk with our stuff" - Nick at the wedding
@@ -156,4 +182,14 @@ We has sushi with another friend of mine, and than Jack,  and I picked up his gi
 
 * "Driving Miss Daisy"
 
+<img  src="{{site.url}}/images/travels/CA/Daisy.jpg" alt="Daisy" style="width: 250px;" align="right"/>
+
 * "Remember,  if you go right you're a bike"
+
+* "I am the chopstick hero!"
+
+* "Santa Cruz was never about the place,  it has always been about [my friends]"
+
+* "Tree cookie!"
+
+

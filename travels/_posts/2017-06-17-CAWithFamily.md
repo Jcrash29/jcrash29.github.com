@@ -35,6 +35,8 @@ The drive to Tustin wasn't bad (surprisingly). As soon as we got to my parents h
 
 On Monday we woke up super early because the sun was shining directly into our room.  Which was fine because it gave me time to spend with my parents.  My mom and I sat down outside on the porch and had a great conversation which the parrots in the trees went wild. 
 
+<img  src="{{site.url}}/images/travels/CA/GeorgeLaying.jpg" style="width: 250px;" align="right"/>
+
 For breakfast we ate my moms special rolls, totally unhealthy and totally tasty. We than made a plan go to New Port Beach,  Diane's old stomping ground. 
 
 At the beach George and I decided to take on Poseidon again in the 6-8ft swells.  This was the same location where two years previously a wave had knocked the 4 of us siblings over and stole Marissa's glasses. The moral of the story, "no one beats Poseidon".
@@ -85,18 +87,29 @@ Finally we made it Monterey and stopped at the new (to us) In N Out. Soooooo goo
 
 Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. We headed to Kresge College where we saw the '(in)famous' fork in a tree. 
 
+<img  src="{{site.url}}/images/travels/CA/Redwoods.jpg" style="width: 250px;" align="right"/>
+
+<img  src="{{site.url}}/images/travels/CA/BananaSlug.jpg" style="width: 250px;" align="right"/>
 
 We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. On our way there and back we passed a huge eucalyptus tree which had been cut down.  Jamie decided he wanted to take it home. 
+
+<img  src="{{site.url}}/images/travels/CA/Mystery.jpg" style="width: 250px;" align="right"/>
 
 <img  src="{{site.url}}/images/travels/CA/TreeCookie.jpg" alt="Tree Cookie" style="width: 250px;" align="right"/>
 
 For lunch we headed to the wharf and ate at the end of the wharf at Dolphin.  After lunch we did a bit of shopping and got our Santa Cruz gear. We stopped and watched the sea lions which sadly there was very few of.  But we did get to watch one idiot walk down onto the sea lion platform,  and promptly poop himself.  To calm the sea lion down Diane and I pet the sea lion with our shadows. 
 
-After a short nap at home we drove to Natural Bridges to see the monarchs and the beach.  Sadly the monarch sanctuary was closed down, but the beach was lovely. 
+<img  src="{{site.url}}/images/travels/CA/SeaLion.jpg" style="width: 250px;" align="right"/>
+
+After a short nap at home we drove to Natural Bridges to see the monarchs and the beach. Along the way Marissa and I stopped at one of our favorite locations: The Santa Cruz Castle. Sadly the monarch sanctuary was closed down, but the beach was lovely. 
+
+<img  src="{{site.url}}/images/travels/CA/Spire.jpg" style="width: 250px;" align="right"/>
 
 As we drove along the coast we decided to stop at different beautiful points and just take it all in. 
 
 We finished up at the light house and dog beach where we spent a long time watching surfers,  sea otters and of course dogs. 
+
+<img  src="{{site.url}}/images/travels/CA/Arrow.jpg" style="width: 250px;" align="right"/>
 
 For dinner we went to Marissas and my favorite spot Burger. After we headed to Santa Cruz Mountain Brewery for good beers, good company, and to meet with two of my good friends. 
 
@@ -109,9 +122,17 @@ This morning we woke up and headed to Monterey. We took the senic route along th
 
 In Monterey we went on a 3 hour whale watching tour. It was AMAZING!  We saw a dozen humpback whales,  a pod of Risso dolphins, a single sun fish, sea lions,  sea otters, and a black albatross.
 
+<img  src="{{site.url}}/images/travels/CA/BoatCrew.jpg" style="width: 250px;" align="right"/>
+
+<img  src="{{site.url}}/images/travels/CA/SeaLions.jpg" style="width: 250px;" align="right"/>
+
+<img  src="{{site.url}}/images/travels/CA/CaptainJohn.jpg" style="width: 250px;" align="right"/>
+
 I was wearing a go pro the whole time,  and got lots of videos!
 
-After the tour we got some pizza where our young (16 y/o) waiter was doing a great job. 
+After the tour we got some pizza where our young (16 y/o) waiter was doing a great job.
+ 
+<img  src="{{site.url}}/images/travels/CA/MOtter.jpg" alt="Marissa the otter" style="width: 250px;" align="right"/>
 
 We than attempted to take the 17 mile drive to Carmel. But no one told us that the 17 mile drive cost $10.75. Its against our morals to pay to drive on a road,  especially when the fog is moving in,  so we attempted to circumvent the road and get to Carmel ourselves. 
 
@@ -131,6 +152,8 @@ Marissa was in need of a break,  so I headed north with Diane and Jamie in the h
 
 Instead of taking highway 17, we took highway 1 along the ocean. We stopped at Pigeon Point and saw some harbor seals,  and lots of beautiful ocean. 
 
+<img  src="{{site.url}}/images/travels/CA/PigeonPoint.jpg" style="width: 250px;" align="right"/>
+
 After heading across the San Francisco Bay I had the in laws drop me off with my Uncle Jerry,  where we talked about life, love,  and the San Francisco gay pride festival. 
 
 I than took BART into San Francisco to spend time with my good friend Jack. 
@@ -140,6 +163,8 @@ We has sushi with another friend of mine, and than Jack,  and I picked up his gi
 # Day 8 Lazy Sunday
 
 After a great night's sleep and a great morning with Jack and Dita. We went shopping with our friends in downtown Santa Cruz. 
+
+<img  src="{{site.url}}/images/travels/CA/Flowers.jpg" style="width: 250px;" align="right"/>
 
 We took a well needed break on the dog beach, a nap, and finished up with pizza at Woodstock's Pizza. 
 
@@ -151,12 +176,29 @@ Amazingingly enough I did not wake up with a hangover.  But we did once again sl
 
 We had always planed for Monday to be a day of rest before we began our travels home,  and it was great. 
 
+<img  src="{{site.url}}/images/travels/CA/UsOcean.jpg" style="width: 250px;" align="right"/>
+
 For lunch I had Hawaiian grill Poke.  It's almost like a build your own sushi. 
 
 That night I went out with friends to the Santa Cruz Board Walk and had a fun time on several rides.  Including the merry go round where you get to throw metal rings at a clown. 
 
 All in all this has been an amazing trip. 
 
+<img  src="{{site.url}}/images/travels/CA/Drive.jpg" alt="Drive" style="width: 250px;" align="right"/>
+
+# Day 10 Santa Cruz to Home
+
+Today was our last day of vacation. 
+
+We took another lazy morning to rest and watch TV. We had to be out of the air BnB by 11 AM, so after packing and cleaning we started our walk to downtown Santa Cruz. 
+
+After about 30 minutes of waiting we got on the highway 17 bus to take us to San Jose. As we arrived we took an Uber to Mayfield Robotics to meet Kuri.
+
+We had one last shot to eat In N' out.  It was wonderful. 
+
+Our flight home was good,  and we played lots of Pokemon. 
+
+Over all this trip has been well needed! 
 
 # Quotes
 
@@ -191,5 +233,7 @@ All in all this has been an amazing trip.
 * "Santa Cruz was never about the place,  it has always been about [my friends]"
 
 * "Tree cookie!"
+
+* "Turns out our host designs and makes aluminum stilts that he sells internationally, because of course he does." - Marissa 
 
 

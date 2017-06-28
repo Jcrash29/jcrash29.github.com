@@ -87,9 +87,9 @@ Finally we made it Monterey and stopped at the new (to us) In N Out. Soooooo goo
 
 Today Marissa and I showed her parents what Santa Cruz was to us. We started with a quick trip onto campus to get a great view of the city. We headed to Kresge College where we saw the '(in)famous' fork in a tree. 
 
-<img  src="{{site.url}}/images/travels/CA/Redwoods.jpg" style="width: 250px;" align="right"/>
+<img  src="{{site.url}}/images/travels/CA/RedWoods.jpg" style="width: 250px;" align="right"/>
 
-<img  src="{{site.url}}/images/travels/CA/BananaSlug.jpg" style="width: 250px;" align="right"/>
+<img  src="{{site.url}}/images/travels/CA/BananaSlug.png" style="width: 250px;" align="right"/>
 
 We than headed to the mystery spot,  where Marissa use to work,  it's always a good time. On our way there and back we passed a huge eucalyptus tree which had been cut down.  Jamie decided he wanted to take it home. 
 

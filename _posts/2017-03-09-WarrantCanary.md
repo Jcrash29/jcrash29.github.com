@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warrent Canary"
+title: "Warrant Canary"
 description: ""
 category: security
 tags: []

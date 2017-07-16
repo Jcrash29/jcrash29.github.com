@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Warrent Canary"
+description: ""
+category: security
+tags: []
+comments : false
+---
+{% include JB/setup %}
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 

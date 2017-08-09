@@ -4,9 +4,12 @@ title: About Me
 ---
 {% include JB/setup %}
 
-HELLO! My name is **John Crannell-Ash**. This site is designed to give a high level overview of my skills, work, and life experiences. I am currently employed by [Entrust Datacard](http://www.datacard.com), in Shakopee Minnesota, as a firmware engineer. I earned my Master's in Computer Engineering (with an emphasis in robotics and controls) while studying at the [University of California Santa Cruz](http://www.ucsc.edu), 
+HELLO! My name is **John Crannell-Ash**. This site is designed to give a high level overview of my skills, work, and life experiences. I am currently employed by [Construction Robotics](http://www.construction-robotics.com), in Rochester New York, as a controls engineer. 
 
-I have a diverse set of interests including robotics, autonomous vehicles, aviation, controls, firmware, electrical design, mechanical design, and embedded hardware design. 
+I earned my Master's in Computer Engineering with an emphasis in robotics and controls at the [University of California Santa Cruz](http://www.ucsc.edu), in 2015.
+
+
+I have a diverse set of interests including robotics, autonomous vehicles, firmware, security, IoT, and embedded hardware design. 
 
 I am actively interested in working on new projects. If you have any interest in  collaborating with me on one of my many projects, or feel I could provide help to your project; please contact me anytime at jcrash29[-at-]gmail.com
 

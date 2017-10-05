@@ -12,29 +12,28 @@ comments : false
 Hash: SHA512
 
 
-
-2017-08-23
+2017-10-5
 
 No warrants have ever been served to myself (John Crannell Ash) or my website (Jcrash.com). No searches or seizures of any kind have ever been performed.
 
 As suggested by others to verify that this message was created today, and not simply created in the past and being released today:
 
-Brewers 4 - Giants 3
+Reds 3 - Cubs 1 (10/1)
 
-Rangers 1 - Angels 10
+Twins 4 - Yankees 8 (10/3)
 
-Padres 12 - Cardinals 4
+Rockies 8 - Diamondbacks 11 (10/4)
 
-Above games on 8/22
 
 -----BEGIN PGP SIGNATURE-----
 
 iQFMBAEBCgA2LxxKb2huIENyYW5uZWxsLUFzaCAoQWVyb24gSmFzaCkgPE1lQEpj
-cmFzaC5jb20+BQJZnZdZAAoJEHtjQTDBoN1IYeYH/3WD8mfqrbnv3DeCxrVN3b6J
-qk2Qf/mE122HclzfSzXrqhW1jte6HahEHpsuhGIaPPazMCgHSnIu47QIcZgPuFAO
-uConVGMvVcnK0ygvCYSKHjpoSjYO7pOBgm9fMCpklusCXnjpkKvZCYGfrO6o2URJ
-/Vm2cprNnLqpoAke8mkqVTZmrYTQfIjCicnjHwXsHPKPP6Zdt9mXrkGiJjHnnaTI
-GoIu95UlWM4SsJgbvome8aK+M0Wl5PfZlYJ90E8uJRTqeg+AyyVn7Gd+lgDeQhAC
-tuH8Vh4p1sP2dgFv22M/fkfBOM7dskWs6fCNJPg6aImC6wA8fj1vaEmFfgBWM9E=
-=joPb
+cmFzaC5jb20+BQJZ1fDdAAoJEHtjQTDBoN1IU6AIAKqwq40fpPRhGH3VHF9pVyrX
+HoFfuclCO/zBmHVgDNEGb/zonspQbYDo2JNizEU5LAuwu8RVsSRo9KDN/tRXH8gY
+uoXPVwCfuvMNgK99NuL410bc+XG6O/v+WlPfSkS/drqf7L6x9CQ5CqJmcHxyh03a
+88JGIzNEl7iiqUPVPzhAWqibiobxEC+Qk19P3lp2ezZ5z7SFl3qo9rqmkjNaEhCb
+MOr4zY/eP6jRh6743vG4arKE1PZMtjMFWSsnz2BUVFrFTjIGgITukpxi+eHfxnAZ
+8fbrU3blqcn0E8PSB9ICt94XytHU5p9xYcddfAkHQpVYoJg8Vm+oHf7QuV2zNkA=
+=7DkQ
 -----END PGP SIGNATURE-----
+

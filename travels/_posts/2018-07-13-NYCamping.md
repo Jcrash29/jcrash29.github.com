@@ -22,9 +22,19 @@ The problem: we didnt get together to pack. So everyone brought their own pots a
 
 I'm starting to regret this trip. I got in the car and noticed it had exactly 66,666 miles on the car. It is also Friday the 13th. I think it might be a good idea to simply lay in bed and sleep.
 
-This morning we started the day by eating at the local Highland Diner. Than we all boreded into the car and started our 4 hour drive.
+This morning we started the day by eating at the local Highland Diner. Than we all boreded into the car and started our 4 hour drive. The car ride was pretty boring, until about halfway through when we saw the initial attack on Canada. After the terrifying helicopters i have officially accepted the fact that we had gone too far on this auspicious day.
+
+
+<img src="{{site.url}}/images/travels/NYCamping/SmileCopter.jpeg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
+
 
 
 # Quotes
 
 * "Mcycles Drive Careful" - road sign. "mmmHmmm Cycles. Yum" - Tim/Marissa
+
+* "The attack on Canada has begun" - Doug
+
+<img src="{{site.url}}/images/travels/NYCamping/AttackOnCanada.jpeg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
+
+

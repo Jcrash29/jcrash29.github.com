@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Trip to the Adarandocks"
+description: ""
+category: travels
+tags: []
+comments : false
+---
+{% include JB/setup %}
+
+
+<img src="{{site.url}}/images/travels/NYCamping/Adarandocks.jpeg" alt="Adarandocks" style="width: 250px;" align="right"/>
+
+
+# Day 0 - The Day Before Danger
+
+Tomorrow we leave for the Adarandocks. Two campsites. Three dogs. Four cars. Ten people. Due to the amount of gear we were brining we needed to finish packing 24 hours early, and load it into one truck. 
+
+The problem: we didnt get together to pack. So everyone brought their own pots and pans, their own food, their own 6 person tents. Each person bringing the items to share. Somehow we managed to tetris the truck, and are gonna live like kings.
+
+# Day 1 - Friday 13th, 66,666 miles on the car
+
+I'm starting to regret this trip. I got in the car and noticed it had exactly 66,666 miles on the car. It is also Friday the 13th. I think it might be a good idea to simply lay in bed and sleep.
+
+This morning we started the day by eating at the local Highland Diner. Than we all boreded into the car and started our 4 hour drive.
+
+
+# Quotes
+
+* "Mcycles Drive Careful" - road sign. "mmmHmmm Cycles. Yum" - Tim/Marissa

@@ -33,7 +33,7 @@ This morning we started the day by eating at the local Highland Diner. Than we a
 
 * "Mcycles Drive Careful" - road sign. "mmmHmmm Cycles. Yum" - Tim/Marissa
 
-* "The attack on Canada has begun" - Doug
+* "The attack on Canada has begun" - Doug "Their maple syrup reserves will be ours by Christmas" - Tim
 
 <img src="{{site.url}}/images/travels/NYCamping/AttackOnCanada.jpeg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
 

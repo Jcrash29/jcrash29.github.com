@@ -25,7 +25,7 @@ I'm starting to regret this trip. I got in the car and noticed it had exactly 66
 This morning we started the day by eating at the local Highland Diner. Than we all boreded into the car and started our 4 hour drive. The car ride was pretty boring, until about halfway through when we saw the initial attack on Canada. After the terrifying helicopters i have officially accepted the fact that we had gone too far on this auspicious day.
 
 
-<img src="{{site.url}}/images/travels/NYCamping/SmileCopter.jpeg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NYCamping/SmileCopter.jpg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
 
 
 
@@ -35,6 +35,6 @@ This morning we started the day by eating at the local Highland Diner. Than we a
 
 * "The attack on Canada has begun" - Doug "Their maple syrup reserves will be ours by Christmas" - Tim
 
-<img src="{{site.url}}/images/travels/NYCamping/AttackOnCanada.jpeg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NYCamping/AttackOnCanada.jpg" alt="These Helicopters look like a smiley face" style="width: 250px;" align="right"/>
 
 

@@ -44,6 +44,78 @@ After that extremely eventful afternoon. Tim, Doug, Chris and I went to a local 
 
 <img src="{{site.url}}/images/travels/NYCamping/Sunset.jpg" alt="Sunset on the ninth hole" style="width: 250px;" align="right"/>
 
+At the end of the round of golf i realized I was missing my childhood driver cover. It was  a big pink pig. After our round I wandered into the pro shop and asked if anyone had dropped it off. He immediately put a different cover of a black bear on the table and asked if he could buy my pig one dor $20. Apperently he had found it, and wanted to give it to a client who owns two pigs. I happily took the trade.
+
+After returning to the camp ground we made some dinner with our other friends. All in all, we somehow survived the Friday the 13th massacre.
+
+# Day 2 - Half our group is crazy
+
+So we surived Friday the 13th, but than five members of our 10 person group decided to go on an 8 hour hike in an attempt to kill themselves. Luckily Marissa and I like being alive so we stayed in camp, and slept in. 
+
+Bear managed to survive his first night in a tent, but he like us, didn't sleep super well. Marissa suggested we get a bigger tent, and although she is probably correct, i am stubborn 
+
+After breakfast and some coffee we decided to wander around Lake Placid and Mirror lake. it was a good 2.7 mile walk around the beautiful lake. Sadly there was no place to let Bear swim in Mirror lake. Luckily we noticed a sign for a boat launch on Lake Placid and let Bear swim there. 
+
+At one point along the walk, Bear decided that Doug was his property and lifted his leg to pee on Dougs leg. Luckily both Doug and Marissa noticed before any real damage could be done. But my oh my did he get a good scolding.
+
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Hat.jpg" alt="Funny moose sign"   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+This moose in a top hat was everything I needed to get through our hike.
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/MBobsled.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Marissa has decided to join the winter olympics. They do all the winter olympics training in Lake Placid
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/BBobsled.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Bear decided he couldn't leave Marissa and was going to join the bobsled team too.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/MirrorLake.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Mirror lake is very beautiful. Im so happy to be able to visit this part of the country.
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/BearStatue.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+I feel like we need to own one of these
+</td>
+</tr>
+
+</table>
+
+after a good nap at camp Doug and I decided to go golfing at the nearby course. I played about 10 shots better than the first day. It helped that it was only two of us, and that we had gotten a cart. The problem was that we had expected our other 5 members to be home by 4. Yet by 6 they were still out. Well, I knew someone was going to die this trip..... 
+
+
+
+
+
 
 # Quotes
 
@@ -55,4 +127,11 @@ After that extremely eventful afternoon. Tim, Doug, Chris and I went to a local 
 
 * Taxidermy shop: "You snuff it, we stuff it" - Doug
 
+* #Glamping - Matt and Danielle 
+
+* "Chris is the only one who enjoys a nice twangy tune" - Matt
+
+* " Bear is absolutely not a distance runner. He goes from nap to nap..... Like me" - Marissa
+
+* "John you pretend to be Tim, Tim you pretend to be John" - Car, "I dont know if i can be that witty" - John "I was gonna say the same thing" - Tim
 

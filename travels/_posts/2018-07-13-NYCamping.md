@@ -206,7 +206,7 @@ To my surprise the Group managed to make it to the summit.
 <img src="{{site.url}}/images/travels/NYCamping/MajesticFitz.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-This is why <a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> is a popular #DogOfInstagram
+This is why [Fitz](https://www.instagram.com/fitz_thegoodbrowndog) is a popular #DogOfInstagram
 </td>
 </tr>
 

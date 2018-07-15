@@ -122,7 +122,7 @@ after a good nap at camp Doug and I decided to go golfing at the nearby course. 
 <img src="{{site.url}}/images/travels/NYCamping/CF.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Chris and Fritz ready for the hike.
+Chris and <a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> ready for the hike.
 </td>
 </tr>
 
@@ -131,7 +131,7 @@ Chris and Fritz ready for the hike.
 <img src="{{site.url}}/images/travels/NYCamping/CFS.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Chris, Sarah, and Fritz ready for the hike.
+Chris, Sarah, and <a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> ready for the hike.
 </td>
 </tr>
 
@@ -140,7 +140,7 @@ Chris, Sarah, and Fritz ready for the hike.
 <img src="{{site.url}}/images/travels/NYCamping/SleepingFitz.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Fitz got a bit tired.
+<a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> got a bit tired.
 </td>
 </tr>
 
@@ -168,7 +168,7 @@ Tim will be the lord of this trip. All others will suffer.
 <img src="{{site.url}}/images/travels/NYCamping/FitzWorld.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Fitz at the top of the world.
+<a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> at the top of the world.
 </td>
 </tr>
 
@@ -178,7 +178,7 @@ Fitz at the top of the world.
 <img src="{{site.url}}/images/travels/NYCamping/FS.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Fitz and Sarah made it to the top of the world #DogsOfJcrash
+<a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> and Sarah made it to the top of the world #DogsOfJcrash
 </td>
 </tr>
 
@@ -187,7 +187,7 @@ Fitz and Sarah made it to the top of the world #DogsOfJcrash
 <img src="{{site.url}}/images/travels/NYCamping/FT.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-Fitz and Tim at Avalanche Lake
+<a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> and Tim at Avalanche Lake
 </td>
 </tr>
 
@@ -206,7 +206,7 @@ To my surprise the Group managed to make it to the summit.
 <img src="{{site.url}}/images/travels/NYCamping/MajesticFitz.jpg" alt=""  width="230"/>
 </td>
 <td align="center" valign="center">
-This is why Fitz is a popular #DogOfInstagram
+This is why <a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> is a popular #DogOfInstagram
 </td>
 </tr>
 
@@ -230,6 +230,10 @@ Yep, it was worth it
 
 </table>
 
+
+After allowing the survivors to wash up we went to the local BBQ joint. Most people decided to drive. Marissa walked and managed to beat everyone. (Wizard?) It was nice to sit down with a great  group of friends, drink a cold one and eat some BBQ. 
+
+It's been a good couple of days, and we all agree we  need to do it again. Tomorrow we're planning to watch the finals for the world cup  and than head home
 
 
 
@@ -255,3 +259,6 @@ Yep, it was worth it
 * "Did you guys survive the hiking trip?" -John "Had to sacrifice Tim to a bear, but otherwise yes"
 
 * "Look its a night butterfly" - Matt, "You mean a moth" - Everyone, "Nope I dont"
+
+
+

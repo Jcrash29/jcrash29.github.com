@@ -113,6 +113,123 @@ I feel like we need to own one of these
 after a good nap at camp Doug and I decided to go golfing at the nearby course. I played about 10 shots better than the first day. It helped that it was only two of us, and that we had gotten a cart. The problem was that we had expected our other 5 members to be home by 4. Yet by 6 they were still out. Well, I knew someone was going to die this trip..... 
 
 
+### The warriors returned 
+
+<table>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/CF.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Chris and Fritz ready for the hike.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/CFS.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Chris, Sarah, and Fritz ready for the hike.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/SleepingFitz.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fitz got a bit tired.
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/LordTim.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Tim will be the lord of this trip. All others will suffer.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Sign.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+2.1 miles to the summit
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/FitzWorld.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fitz at the top of the world.
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/FS.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fitz and Sarah made it to the top of the world #DogsOfJcrash
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/FT.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fitz and Tim at Avalanche Lake
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Group.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+To my surprise the Group managed to make it to the summit.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/MajesticFitz.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+This is why Fitz is a popular #DogOfInstagram
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Top1.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Was it worth it?
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Top2.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Yep, it was worth it 
+</td>
+</tr>
+
+</table>
+
 
 
 
@@ -135,3 +252,4 @@ after a good nap at camp Doug and I decided to go golfing at the nearby course. 
 
 * "John you pretend to be Tim, Tim you pretend to be John" - Car, "I dont know if i can be that witty" - John "I was gonna say the same thing" - Tim
 
+* "Did you guys survive the hiking trip?" -John "Had to sacrifice Tim to a bear, but otherwise yes"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trip to the Adarandocks"
+title: "Trip to the Adirondack"
 description: ""
 category: travels
 tags: []
@@ -14,7 +14,7 @@ comments : false
 
 # Day 0 - The Day Before Danger
 
-Tomorrow we leave for the Adarandocks. Two campsites. Three dogs. Four cars. Ten people. Due to the amount of gear we were brining we needed to finish packing 24 hours early, and load it into one truck. 
+Tomorrow we leave for the Adirondack. Two campsites. Three dogs. Four cars. Ten people. Due to the amount of gear we were brining we needed to finish packing 24 hours early, and load it into one truck. 
 
 The problem: we didnt get together to pack. So everyone brought their own pots and pans, their own food, their own 6 person tents. Each person bringing the items to share. Somehow we managed to tetris the truck, and are gonna live like kings.
 
@@ -253,3 +253,5 @@ Yep, it was worth it
 * "John you pretend to be Tim, Tim you pretend to be John" - Car, "I dont know if i can be that witty" - John "I was gonna say the same thing" - Tim
 
 * "Did you guys survive the hiking trip?" -John "Had to sacrifice Tim to a bear, but otherwise yes"
+
+* "Look its a night butterfly" - Matt, "You mean a moth" - Everyone, "Nope I dont"

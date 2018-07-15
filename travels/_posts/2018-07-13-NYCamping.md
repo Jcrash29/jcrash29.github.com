@@ -115,7 +115,7 @@ after a good nap at camp Doug and I decided to go golfing at the nearby course. 
 
 ### The warriors returned 
 
-<table>
+<table width="300" border="1" cellpadding="0">
 
 <tr>
 <td align="center" valign="center">

@@ -235,7 +235,76 @@ After allowing the survivors to wash up we went to the local BBQ joint. Most peo
 
 It's been a good couple of days, and we all agree we  need to do it again. Tomorrow we're planning to watch the finals for the world cup  and than head home
 
+# Day 3: I hate Fance
 
+Well, the morning has been spent cleaning up all of our mess. Marissa and I packed our car with as much as we could comfortably take. We than put the rest of it into the bed of Chris's truck. Luckily we were able to easily fit everything, unlike the when we were coming up.
+
+Some of the group decided to go home, some decided to go fishing,  while Marissa and I decided to hold  down camp and get some reading done.
+
+A little before 11 AM, we drove into Lake Placid for one last time. We ended up at a local sports bar to watch the Croatian v. French  world cup game. 
+
+We were all sorry when Croatia lost,  but my oh my was it a great game. 
+
+Ths drive home was 4.5 hrs. But atleast we made it. I would happily do it again!!!
+
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Fishing.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+the only good catch from the day.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Fire.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fire  was wonderful. 
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/Fire2.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fire  was wonderful. 
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/FitzEtal.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Fitz was a good boy. 
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/TheCrew.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+A good number of our crew!
+</td>
+</tr>
+
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/NYCamping/MirrorWalk.jpg" alt=""  width="230"/>
+</td>
+<td align="center" valign="center">
+Marissa later pointed out to me how akward our walk was.
+</td>
+</tr>
+</table>
 
 
 # Quotes

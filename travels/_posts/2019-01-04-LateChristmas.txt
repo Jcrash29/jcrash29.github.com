@@ -9,7 +9,6 @@ comments : false
 {% include JB/setup %}
 
 
-<img src="{{site.url}}/images/travels/Scotland/UK_Map.jpg" alt="Map" style="width: 250px;">
 
 # Day 0 - Late Christmas  is better than no Christmas 
 

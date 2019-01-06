@@ -20,7 +20,19 @@ There was no need.... All we ended up doing was playing more pokemon than is nec
 
 Still though we got on our flights and headed to our first stop. MINNESOTA
 
+# Day 1: Congratulations Chad and Becca
 
+We finally reached Chaska/Victoria a little after 1 in the morning. Our goal was to sneak into the house undetected by the multitudes of dogs. Success seemed out of reach.  However it seems the dogs were as tired as us after their evening romp, because only one dog was disturbed and was back asleep quickly.
+
+After a good nights rest in the pig room we were finally able to properly greet the family and dogs. It was weird having so few dogs here, there was only FIVE!!! The standard is atleast 9 puppies. (Dont worry tomorrow will return to normal). 
+
+After a morning of coffee and fruit the family decided to go get lunch in Excelsior and do some last minute christmas shopping. We had a full afternoon of shopping before Marissa and I quickly rushed off to our friends wedding.
+
+The night was amazing. The bride was beautiful and it gave us an opportunity to catch up with all our old friends! Marissa and I really enjoy living in Rochester, but there is something about returning home..... Even if just for a couple days.
+
+# Day 2: Happy Birthday to the puppies!
+
+MERRY CHRISTMAS everyone! Sure were a couple weeks late. But its family that really makes it christmas. The Crannell side of the family has a tradition of opening stockings with each other.  So everyone saved their stocking stuffers until we were with each other.
 
 # Quotes
 

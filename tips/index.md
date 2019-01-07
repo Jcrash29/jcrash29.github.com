@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "School"
+title: "Tips"
 description: ""
 ---
 {% include JB/setup %}
 
 <ul>
-  {% for post in site.categories.school %}
+  {% for post in site.categories.tips %}
     <li>
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}

@@ -8,6 +8,7 @@ comments : false
 ---
 {% include JB/setup %}
 
+<img src="{{site.url}}/images/travels/2019Christmas/CAandMN.png" alt="CA and MN in one" style="width: 250px;" align="right"/>
 
 
 # Day 0: Late Christmas  is better than no Christmas 

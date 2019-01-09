@@ -8,6 +8,8 @@ comments : false
 ---
 {% include JB/setup %}
 
+<img src="{{site.url}}/images/travels/Boston/freedomTrail.png" alt="Freedom Trail emblem" style="width: 250px;" align="right"/>
+
 ## Day 0: Uber
 
 It was a late night last night. We went to a club in Minneapolis with a couple of friends and didn't make it home till 2 in the morning. This wouldn't normally be a problem because we are young and can handle the stress on our bodies. But this was different because the following after noon less than 8 hours later we were getting on a flight to Boston to see our friend Wilhelm,  and than go to a wedding in New York the following weekend. 
@@ -47,8 +49,8 @@ The weather for tomorrow is supposed to be much nicer so we are looking forward 
 
 Today was a very long day full of history, friendship and sight seeing. I am actually having a hard time parsing everything we saw so I may simply end up creating a list and posting pictures in the following days. 
 
-* canolis from Mike's
-* The freedom trail
-* American history from a South African. 
-* great conversations about who wehiwant to be and how to reach those goals. 
-* My little pony: Friendship is Magic.
+  * canolis from Mike's
+  * The freedom trail
+  * American history from a South African. 
+  * great conversations about who wehiwant to be and how to reach those goals. 
+  * My little pony: Friendship is Magic.

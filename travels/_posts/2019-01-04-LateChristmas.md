@@ -43,6 +43,14 @@ The final part of the day was spent having a fire in the backyard. This is a fai
 
 Today I decided not to do nothing-for-no-one. 
 
+We did end up playing multiple games of Up-and-Down the river with Grandma. It was great!
+
+# Day 4: 
+
+Bell Museum.
+Happy Gnome.
+
+
 # Quotes
 
 * "I know we're on a flight to MN.... The people across from us our telling strangers their life stories" -- John at the airport.

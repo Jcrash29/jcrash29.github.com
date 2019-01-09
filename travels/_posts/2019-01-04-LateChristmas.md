@@ -165,6 +165,11 @@ Jamie and I posing in front of the periodic table of elements.
 
 </table>
 
+# Day 5: California Dreamin'
+
+When I bought the flight getting into CA by 11 AM sounded great.  What I didnt consider was waking up at 2:30 in order to catch our flight. When flying out of Rochester we had no problems because apperently the TSA is permanently outsourced to a different company. The same cannot be said for the Minneapolis St.Paul airport. Unpaid TSA employees everywhere. The one security checkpoint was floodes with people (Even at 4 in the morning). 
+
+Luckily Marissa and I planned well enough and were able to  make it onto out flight with time to spare for a coffee.
 
 
 # Quotes

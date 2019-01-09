@@ -39,16 +39,132 @@ After spending time together for a couple hours it was time to get ready for a G
 
 The final part of the day was spent having a fire in the backyard. This is a fairly normal thing for the Crannell's even if it is blustry cold. Marissa and I invited some friends we rarely get to see (Kertzman + Jade, Nick + Caitlin). The fire was great. It gave us ample opportunity to talk, and catch up. Also to scar Jamie by talking about Anime (Food Wars).
 
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/DogParty.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Maples puppies playing! 
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Dogs.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Jamie with the dogs of the house: Nora, Maple, Rocket!, and Leo.
+</td>
+</tr>
+
+</table>
+
 # Day 3: LAZY DAY!
 
 Today I decided not to do nothing-for-no-one. 
 
 We did end up playing multiple games of Up-and-Down the river with Grandma. It was great!
 
-# Day 4: 
+# Day 4: Bell Gnomes love Hoagies
 
-Bell Museum.
-Happy Gnome.
+Our first stop today was to the Bell Museum in St. Paul. It recently moved to its own location. Previously it was in the basement of another building. I'm glad it moved because this was one of the better museums I have been to. 
+
+We started in the touch and feel section where we got to touch furs from all kinds of anaimals: black bear, beaver, wolf, fox, sheep, mink. we also got to touch a snake, and lots of fossiles.
+
+From there we moved to the rest of the museum. It started with the big bang, and.moved all the way to modern day. It still amazes me how some of the basics of biology confuse me, but maybe that confusion is what makes me so interested in it.
+
+After reaching modern day Minneaota we went to the planetarium to look at our solar system and how we might explore it in the future.
+
+By this point it was nearly 2 pm and we hadn't had lunch.  It was passed time to get to The Happy Gnome. This was a great decision because this is where Marissa had her Bachelorette party.
+
+Everyone was so happy with our choice of food. I had Raman, Jamie had a wild game burger. I also noticed that they had one of my favorite MN beers of tap. Surly Furious, so of course I had to get a pint of that.
+
+After the drive home (where we just beat rush hour), it was time for everyone to lay down and rest. Marissa and I did our best to not actually sleep, because we knew we needed an early night because our flight was leaving 5 am the next day.
+
+For late dinner we had Jamie pick us up Davanies. This was one of Marissa's favorite Hoagie shops in Minnesota. it was everything she remembered.
+
+Luckily we were able to schedule an UBER for 3 AM, but at this point that only meant 4 hours of sleep. 
+
+#FML
+
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/BellMuseum.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Selfie at the new Bell Museum
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Butt.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Tortious butt in the touch and feel area. Photo take by Diane (of course...... (I mean because its so good.... not because its weird))
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Hats.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Jamie and I trying on a new fur look. #WhoWoreItBetter
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Snake.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+All the kids touching the milk snake.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Roots.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Family posing under the roots of the plants at the touch and feel.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Mammoth.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Apperently this mammoth is one of the center pieces of the bell museum.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Periodic.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Jamie and I posing in front of the periodic table of elements. 
+</td>
+</tr>
+
+</table>
+
 
 
 # Quotes

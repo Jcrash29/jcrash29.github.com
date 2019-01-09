@@ -38,3 +38,5 @@ MERRY CHRISTMAS everyone! Sure were a couple weeks late. But its family that rea
 
 * "I know we're on a flight to MN.... The people across from us our telling strangers their life stories" -- John at the airport.
 
+* Adult Woman: "Whats the difference between muscles and shells?"...... REALLY?!?! The explanation took 15 minutes.
+

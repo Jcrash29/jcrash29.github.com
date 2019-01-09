@@ -9,7 +9,7 @@ comments : false
 {% include JB/setup %}
 
 
-<img src="{{site.url}}http://images.nationalgeographic.com/wpf/media-live/graphic/map-new-zealand-360x270-cb1446695858.gif" alt="National Geographic map of new zealand" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/NZ.png" alt="map of new zealand" style="width: 250px;" align="right"/>
 
 Thursday October 29th exactly two months after our wedding my wife and I will be traveling to New Zealand. 
 
@@ -65,7 +65,7 @@ I am very ready to get off this plane and fall asleep!
 
 This morning after getting a lovely 8 hours of sleep Marissa and I walked to the ocean. Marissa and I both agreed that the weather was rather hot and humid. Marissa immediately melted into a puddle and I took a dip in the ocean.
 
-<img src="{{site.url}}/images/travels/IMG_0004.JPG" alt="The hotel across the street" style="width: 250px;" align="left"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_0004.JPG" alt="The hotel across the street" style="width: 250px;" align="left"/>
 
 We spent the next 40 minutes looking for a local cafe/restaurant without luck and so settled for an international restaurant (of pancakes). 
 
@@ -103,7 +103,7 @@ Currently we are on the hobbiton bus with a very interesting driver.
 
 It was a sunny Sunday with Sunny the tour guide. The entire trip he referred to us as his team. Marissa and I were given multiple chances to show off our nerdy lord of the rings knowledge. We got many great pictures of the different hobbit holes that had different perspectives 90% and 40%. 
 
-<img src="{{site.url}}/images/travels/IMG_0397.JPG" alt="Us at Hobbiton" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_0397.JPG" alt="Us at Hobbiton" style="width: 250px;" align="right"/>
 
 At the end of the tour we were able to get beer, cider and food from the green dragon inn.
 
@@ -117,7 +117,7 @@ Last night we got home with all the intentions of taking a few hours to ourselve
 
 A trip to New Zealand wouldn't be complete without a good kiwi sighting. So this morning after we packed our bags we set out on our hunt. We ate breakfast at a cafe which has been called the most hipster cafe in Aukland. However when compared to the hipster cafes of Berkeley I must say this looked like a corporate coffee break. That said the view was amazing and the tea was lovely.
 
-<img src="{{site.url}}/images/travels/IMG_0823.JPG" alt="A tazmanian Devil" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_0823.JPG" alt="A tazmanian Devil" style="width: 250px;" align="right"/>
 
 With food in our bellies we set off for the bus that would take us to the kiwi hunting grounds.... The Aukland Zoo. The zoo was lovely and had many birds not seen in America. There were many baby animals including a giraffe and otters. We walked through an area where the wallabies and the emu were not behind cages and could have walked up to us. We also had a chance to see 3 capybaras, play with a family of monkey squirrels. 
 
@@ -139,7 +139,7 @@ After our successful hunt we took the bus back to the main city at the base of t
 
 Getting off the bus from Aukland we immediately walked to a pub, the pig and whistle. We sat in the back patio area watching highlights from the recent rugby World Cup. We both agreed that rugby was rather interesting, but mostly funny.
 
-<img src="{{site.url}}/images/travels/IMG_0982.JPG" alt="Rotorua Park" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_0982.JPG" alt="Rotorua Park" style="width: 250px;" align="right"/>
 
 I finally had a chance to try a New Zealand beer from Mac. It was a lovely 5.4% IPA. 
 
@@ -171,7 +171,7 @@ After a short rest the motel owner dropped us off at a local Maori geyser attrac
 
 The geyser is the largest in New Zealand, and went off for about 20 minutes. I don't entirely understand how geysers work and am now determined to create my own smaller geyser.
 
-<img src="{{site.url}}/images/travels/IMG_1099.JPG" alt="Geyser" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_1099.JPG" alt="Geyser" style="width: 250px;" align="right"/>
 
 After the tour Marissa and I walked back to the motel for a quick rest and to determine where we would eat dinner. With only the bikes at our disposal we decided upon a restaurant that featured local New Zealand cooking. What we discovered when we got to the restaurant is that New Zealand food is just like American food, just with more lamb and better beef. So therefore the meal was lovely. Though we once again did struggle with paying the check (do we ask him for it? Will he bring it to us? Etc)
 
@@ -211,7 +211,7 @@ After leaving the museum we went to a local cafe and had fish and chips and nach
 
 With the time we had left in Wellington we decided to go take a look at where the Minatures for lord of the rings were created. 
 
-<img src="{{site.url}}/images/travels/IMG_1258.JPG" alt="Weta Workshop" style="width: 250px;" align="right"/>
+<img src="{{site.url}}/images/travels/NZ/IMG_1258.JPG" alt="Weta Workshop" style="width: 250px;" align="right"/>
 
 What we discovered when we got there was that they provided way more than that. Not only did they do all the costumes and molding. They had also worked on many other films including Tin Tin, Hell boy, Avengers, and Avatar.
 

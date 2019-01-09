@@ -8,6 +8,7 @@ comments: false
 ---
 {% include JB/setup %}
 
+<img src="{{site.url}}/images/Tips/Virtualbox_logo.png" alt="Oracle VM" style="width: 250px;" align="right"/>
 
 # Host Shared Folder in Ubuntu
 

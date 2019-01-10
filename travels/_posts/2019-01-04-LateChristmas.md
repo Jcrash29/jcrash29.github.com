@@ -167,9 +167,31 @@ Jamie and I posing in front of the periodic table of elements.
 
 # Day 5: California Dreamin'
 
-When I bought the flight getting into CA by 11 AM sounded great.  What I didnt consider was waking up at 2:30 in order to catch our flight. When flying out of Rochester we had no problems because apperently the TSA is permanently outsourced to a different company. The same cannot be said for the Minneapolis St.Paul airport. Unpaid TSA employees everywhere. The one security checkpoint was floodes with people (Even at 4 in the morning). 
+When I bought the flight getting into CA by 9:30 AM sounded great.  What I didnt consider was waking up at 2:30 in order to catch our flight. When flying out of Rochester we had no problems because apperently the TSA is permanently outsourced to a different company. The same cannot be said for the Minneapolis St.Paul airport. Unpaid TSA employees everywhere. The one security checkpoint was floodes with people (Even at 4 in the morning). 
 
 Luckily Marissa and I planned well enough and were able to  make it onto out flight with time to spare for a coffee.
+
+Through Denver and onto Orange County. Landing just before 9:30. We were super tired. Luckily Dad was there to pick us up and take us home. We dropped our bags off and went for Breakfast/Lunch at the Original Pancake House.
+
+After lunch Marissa and I needed some time to recover. She took an hour power nap and I talked and caught  up with my mom.
+
+At around 1 pm we decided to start our 2.5 hour drive to Bakersfield.  Starting in the early afternoon allowed us to miss all the LA rush hour traffic.
+
+After greeting everyone including my second cousin Marcus. We settled in for a game of hands and foot. Dad and Pam ended up winning the game.
+
+After waiting for everyone to get home we went out for dinner at a Tex-mex restaurant. Only to return home an hour later with food-hangovers. 
+
+Some of us slept, and some of us played more games. While playing Quixx Steve arrived to much fan-fair. We finished our game of Quixx and quickly moved into Hand and Foot. I subtly choose Pam as my partner, because I wanted to win ;)
+
+We didnt get to bed until 1 am, and after out full day we all slept very well!
+
+# Day 6: Hart Park 
+
+Apperently Marcus woke up at 6 AM hoping all his "cool new friends" were awake.
+
+WE WERE NOT. Luckily he manged to let us sleep for another 3 hours, before waking us up by jumping into bed with us.
+
+
 
 
 # Quotes

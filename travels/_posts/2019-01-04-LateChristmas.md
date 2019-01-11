@@ -185,13 +185,70 @@ Some of us slept, and some of us played more games. While playing Quixx Steve ar
 
 We didnt get to bed until 1 am, and after out full day we all slept very well!
 
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Bowtie.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Bear has taken a new job as a butler.
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/PlaneWifi.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Marissa wouldnt let me ask for this persons WiFi password
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Texmex.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+Marissa and I playing Pokemon Go with Marcus.
+</td>
+</tr>
+
+</table>
+
 # Day 6: Hart Park 
 
 Apperently Marcus woke up at 6 AM hoping all his "cool new friends" were awake.
 
 WE WERE NOT. Luckily he manged to let us sleep for another 3 hours, before waking us up by jumping into bed with us.
 
+Not long after a lot of the family decided to go play disc golf at the local disc golf course, Hart Park. In the past when playing at Hart Park I would usually be able to beat Robert. However over the last two years I haven't been playing, while he's been playing in tournaments, and winning.
 
+I finished 9 holes at +7 and Robert finished with +3. 
+
+On our way back home we stopped and looked at the local Peacock's. The peacocks have been running wild in the park for decades.
+
+After getting home Marissa and I were hoping to take a nap. Instead we went for lunch with Grandpa. 
+
+After lunch we did get to take a nap.  We later played more Hand and Foot. Once again Pam and I cleaned  up!
+
+
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Peacock.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+A peacock from Hart Park in Bakersfield 
+</td>
+</tr>
+
+</table>
 
 
 # Quotes

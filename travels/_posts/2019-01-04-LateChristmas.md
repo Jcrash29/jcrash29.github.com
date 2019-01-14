@@ -248,7 +248,102 @@ A peacock from Hart Park in Bakersfield
 </td>
 </tr>
 
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/Grandpa.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+ Lunch with my grandfather after disc golf
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/GSM.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+ George, Steve and Marcus working on Steve's new art projects
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/MMJ.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+ Marissa, Marcus, and John watching marcus play Pokemon Go
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+ 
+</td>
+</tr>
+
+
 </table>
+
+# Day 7 Back to Orange
+
+As our time in Bakersfield wraps up we attempted to spend as much time with family as possible. Bright-and-early in the morning we packed up and jumped in the car to go meet Grandpa Ash at the local bowling alley.
+
+Once again having a large family breakfast proves to be lots of fun, and a bit stressful.
+
+After a photo with Grandpa, the immediate Crash-Ash-Keller crew jumped into two cars to drive back to orange county. 
+
+After the long drive,  everyone needed a nap for a couple hours.
+
+For dinner we ordered Chinese and sat down for several board games:
+* Ticket To Ride USA
+* Welcome to the Dungeon 
+
+It was really awesome, everyone enjoyed playing all the board games.
+
+That night George, Marissa, and I watched the first 4 episodes of The Good Place.
+
+# Day 8 Downtown Disney
+
+When you're 15 minutes from Disney Land the best thing to do is drive to Disney Land. Instead of spending tons of money and energy on going into Disney Land, instead we went to Downtown Disney.
+
+Downtown Disney is mostly a shopping area, but it has enough relation to Disney that it gave me my FIX. We managed to pick-up multiple gifts for friends and I picked up some new crushed-pennies.
+
+On our way home, we stopped and ate In-and-out. It had been several years since I ate a double-double, and it was as good as I remembered.
+
+Allowing for a short nap before dinner, was probably the most useful thing. This became clear because 'The Girls'  were coming to visit and we were going to be BBQing.
+
+This was only my second time meeting the girls, and it was Marissa's first.  I decided to prove "how cool" I was by teaching the girls to lock-pick using several of my clear locks. They really took to it and were learning a lot. However after 30 minutes one of the girls came to me and showed me that they had broken one of the several picks inside the lock.
+
+It was fine, I was able to fix the lock and now I have an opportunity to buy a better pick. (: 
+
+After all the Chaos settled down, the Crash-Ash-Keller kids got in the hot-tub and just talked. It was a great moment to remind me how much I love my brothers.
+
+<table width="300" border="1" cellpadding="0">
+
+<tr>
+<td align="center" valign="center">
+<img src="{{site.url}}/images/travels/2019Christmas/in n out.jpg" alt=""   width="230"/>
+<br />
+</td>
+<td align="center" valign="center">
+ Yummy In-and-out!
+</td>
+</tr>
+
+</table>
+
+# Day 9
+
+Morning Rick Roll
+
+
 
 
 # Quotes
@@ -258,4 +353,10 @@ A peacock from Hart Park in Bakersfield
 * Adult Woman: "Whats the difference between muscles and shells?"...... REALLY?!?! The explanation took 15 minutes.
 
 * "The scores are Neck, Neck, Knee, and Neck" -- Marissa when the up-and-down the river scores were 31,31,11,31
+
+* "I was an angry elf.... I didnt report to Santa I fixed it right there and than" - Steve
+
+* "I'm basically a girl now" -- Steve when we complained that he took an hour to fix his hair
+
+* "Teenagers are simply the side-affect of babies, and sometime babies are the side-affect of teenagers" - Marissa and Steve discussing loud In-and-out teenagers
 

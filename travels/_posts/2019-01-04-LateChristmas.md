@@ -360,3 +360,5 @@ Morning Rick Roll
 
 * "Teenagers are simply the side-affect of babies, and sometime babies are the side-affect of teenagers" - Marissa and Steve discussing loud In-and-out teenagers
 
+* "Without lights and bubbles, we're all just taking a bath together" -Steve on the state of the hot tub
+

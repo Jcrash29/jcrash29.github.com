@@ -7,5 +7,5 @@ label_color: 666666
 github_application:
   client_id: da666e21462e0cf3db19
   code_authenticator: https://jcrashcomments.herokuapp.com/authenticate/
-  callback_url: http://www.jcrash.com//public/html/gpgc_redirect.html
+  callback_url: https://www.jcrash.com//public/html/gpgc_redirect.html
 enable_diagnostics: true

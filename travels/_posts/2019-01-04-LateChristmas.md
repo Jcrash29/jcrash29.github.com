@@ -315,6 +315,8 @@ When you're 15 minutes from Disney Land the best thing to do is drive to Disney 
 
 Downtown Disney is mostly a shopping area, but it has enough relation to Disney that it gave me my FIX. We managed to pick-up multiple gifts for friends and I picked up some new crushed-pennies.
 
+The most notable feature of our trip to Downtown Disney was our stop in the Disney Hotel. It has a beautiful architecture and was well worth the detour. However George made a mistake. He let me know that there was a viewing area of the park on the top floor. Sadly the top floor had a check-in desk and george made the mistake of letting them know we were not guest..... They asked us to return to the ground level... George and Marissa were not excited when I immediately disobeyed and went one floor below, and started to walk around the hotel to the emergecy stairs, and go up to the sixth floor. George and Marissa were extremly akward about the whole affair... In the end we did manage to find the look out. However it was locked... Marissa and George used this as an opportunity to give me the "I told you so" look. While I walked out feeling proud for atleast finding the look-out.
+
 On our way home, we stopped and ate In-and-out. It had been several years since I ate a double-double, and it was as good as I remembered.
 
 Allowing for a short nap before dinner, was probably the most useful thing. This became clear because 'The Girls'  were coming to visit and we were going to be BBQing.
@@ -341,7 +343,19 @@ After all the Chaos settled down, the Crash-Ash-Keller kids got in the hot-tub a
 
 # Day 9
 
-Morning Rick Roll
+Bright and early in the morning the 6 of us got into cars to head to breakfast. Marissa and I packed our bags in anticipation of heading straight to the airport after. Steve, George, Marissa and I got into the car and immediatly started to back out of the drive way. When suddenly at an EXTREMLY load volume..... We got rick rolled. 
+
+Initially we blamed our mom whose phone was connected nearby via bluetooth. However we soon realized that it was the radio station, and it was just serendipitous. It seemed like a bad omen for the day.
+
+After once again having breakfast at the Origional Pancake House, we went our seperate ways. George and Steve dropping us off at the airport before going back to bed, and the parents going to church.
+
+Once again our trip through the unpaid TSA was very easy. (thankfully). The SNA airport gave us free wifi, and free charging, so we were very content to just wait it out!
+
+It was our second flight out of Chicago that got very interesting. While standing at a fork in the road deciding on where to get dinner. A pilot decided to stop and let us know that there was indeed an resteraunt down towards our gate. We thanked him and continuted to talk to him. It dawned on us that he was our pilot. I asked him to thank the Air Traffic Control for me, because they're also being un-paid and have (IMO) a much harder job than the TSA.
+
+We talked all the way to the resteraunt (5 minutes), and than we talked again after we boarded the plane. 
+
+Marissa is using this as an opportunity to show all my friends that my friendship is indeed a weapon. Just point me at someone and I'll go make a new friend.
 
 
 

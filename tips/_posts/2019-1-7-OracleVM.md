@@ -51,3 +51,23 @@ vboxsf
 ```
 sudo shutdown -r now
 ```
+
+# Expand Virtual Disk Size
+1. Close oracle VM and your linux virtual box.
+2. In windows open a command console.
+3. change directory to Virtual box folder:
+```
+cd “C:\Program Files\Oracle\VirtualBox”
+```
+4.
+Use the following command to resize Virtual Box to 50Gb.
+```
+VBoxManage modifyhd “C:\Users\<<USER NAME>>\VirtualBox VMs\<<VM NAME>>\<<VM NAME>>.vdi” --resize 51200
+```
+5. Open the VM in virtual box.
+
+6. The harddrive has now been expanded in size, but we still need to repartition the system to use the expanded range. The suggested method is in linux to use the GUI Gparted. 
+
+7. Gparted may need to be installed, just search for it in the system, and an install option will be available.
+
+8. click on the partition you wish to expand and modify the size.

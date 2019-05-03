@@ -719,12 +719,6 @@ pre {
   margin-left: 0;
   margin-right: 0;
 }
-.unit-article p code,
-.unit-article li code {
-  padding: 2px 5px;
-  white-space: nowrap;
-  background-color: #fff04a;
-}
 .unit-article img {
   display: block;
   margin-left: auto;

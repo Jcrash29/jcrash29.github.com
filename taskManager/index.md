@@ -16,7 +16,7 @@ description: ""
 	Create Project: Wedding Center Pieces</a> 
 	</td><td></td></tr>
 	
-	<tr><td>Get Ham radio license</td><td></td><td></td><td></td></tr>
+	<tr><td></td><td></td><td></td><td>Get Ham radio license</td></tr>
 	
 	<tr><td>Raspberry pi 2 media server</td><td></td><td></td><td></td></tr>
    

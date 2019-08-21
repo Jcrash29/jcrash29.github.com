@@ -4,18 +4,13 @@ title: About Me
 ---
 {% include JB/setup %}
 
-HELLO! My name is **John Crannell-Ash**. This site is designed to give a high level overview of my skills, work, and life experiences. I am currently employed by [Construction Robotics](http://www.construction-robotics.com), in Rochester New York, as a controls engineer. 
+HELLO! My name is **John Crannell-Ash**. This site is designed to give a high level overview of my skills, work, and life experiences. I am currently employed by [Vanteon Wirieless Solutions](https://vanteon.com/), in Rochester New York, as an embedded software engineer. 
 
 I earned my Master's in Computer Engineering with an emphasis in robotics and controls at the [University of California Santa Cruz](http://www.ucsc.edu), in 2015.
 
-
-I have a diverse set of interests including robotics, autonomous vehicles, firmware, security, IoT, and embedded hardware design. 
+I have a diverse set of interests including robotics, software defined radios, autonomous vehicles, firmware, security, IoT, and embedded hardware design. 
 
 I am actively interested in working on new projects. If you have any interest in  collaborating with me on one of my many projects, or feel I could provide help to your project; please contact me anytime at jcrash29[-at-]gmail.com
-
-{% comment %} 
-![name of the image](http://www.racinghelmets.eu/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/h/shield_dsaf_rs3_ml_red_1.jpg)
-{% endcomment %} 
 
 {% comment %} 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)

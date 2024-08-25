@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Late Christmas"
+title: "Minor Two Timing In The Boundary Waters"
 description: ""
 category: travels
 tags: []

@@ -217,3 +217,4 @@ our final night.
 12. "If you cant love me at my swamp Doug, you cant have me at my best Doug" - Marissa
 13. "Where is the lake narrows sign? Why don't we have road widens signs?" - someone
 14. “What the hell is Top The Tater?” - NY faction
+15. "I need a strong pegging to finish" - Doug (during cribbage)
